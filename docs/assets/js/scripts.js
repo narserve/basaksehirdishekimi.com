@@ -190,8 +190,8 @@ Version: 1.5
          * ### HOW TO CREATE A VALID INSTAGRAM ID TO USE: ###
          * You need your user name and your access token for use Instagram API. Login to Instagram https://www.instagram.com 
          * You can get your user ID from here: https://smashballoon.com/instagram-feed/find-instagram-user-id/
-         * Get your access token from http://jelled.com/instagram/access-token and folow the instruction
-         * You can also generate access token from here: http://instagram.pixelunion.net/.
+         * Get your access token from https://jelled.com/instagram/access-token and folow the instruction
+         * You can also generate access token from here: https://instagram.pixelunion.net/.
          * Use your userId and accessToken as below instead!
 
          */
