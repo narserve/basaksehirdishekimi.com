@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(page.breadcrumb) }}
+    <h1>{{ c.about.title }}</h1>
+    <p class="lead">{{ c.about.intro }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container about-split">
+    <article class="article">
+      {%- for p in c.about.paragraphs %}
+      <p>{{ p }}</p>
+      {%- endfor %}
+    </article>
+    <div class="about-photos">
+      {%- for g in c.home.gallery.photos %}
+      <figure><picture><source srcset="/assets/img/{{ g.file }}.webp" type="image/webp"><img src="/assets/img/{{ g.file }}.jpg" alt="{{ g.alt }}" width="464" height="464" loading="lazy"></picture></figure>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+<section class="section section-soft">
+  <div class="container">
+    <div class="section-head"><h2>{{ c.about.values_title }}</h2></div>
+    <div class="grid grid-4">
+      {%- for v in c.about['values'] %}
+      <div class="why-item">
+        <span class="why-num">{{ '%02d' % loop.index }}</span>
+        <h3>{{ v.title }}</h3>
+        <p>{{ v.text }}</p>
+      </div>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="section-head"><h2>{{ c.about.team_title }}</h2><a class="link-more" href="{{ c.paths.dentists }}">{{ c.common.all_dentists }}</a></div>
+    <div class="grid grid-4">
+      {%- for d in c.dentists if d.has_photo %}
+      {{ m.dentist_card(d, c) }}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

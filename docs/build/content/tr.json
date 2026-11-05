@@ -1,0 +1,1348 @@
+{
+  "lang": "tr",
+  "dir": "ltr",
+  "locale": "tr_TR",
+  "lang_name": "Türkçe",
+  "site": {
+    "name": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği",
+    "short_name": "Ay Yıldız ADSP",
+    "tagline": "Kayaşehir · Başakşehir",
+    "slogan": "Gülüşünüz emin ellerde.",
+    "description": "Başakşehir Kayaşehir'de implant, gülüş tasarımı, ortodonti, çocuk diş hekimliği ve tüm diş tedavileri. Türkçe, İngilizce ve Arapça hizmet."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "treatments": "Tedaviler",
+    "dentists": "Hekimlerimiz",
+    "faq": "Soru-Cevap",
+    "contact": "İletişim",
+    "appointment": "Randevu Al",
+    "call": "Ara",
+    "menu": "Menü",
+    "close": "Kapat",
+    "language": "Dil"
+  },
+  "paths": {
+    "home": "/",
+    "about": "/hakkimizda/",
+    "treatments": "/tedaviler/",
+    "dentists": "/hekimler/",
+    "faq": "/sikca-sorulan-sorular/",
+    "contact": "/iletisim/"
+  },
+  "common": {
+    "free_exam": "Randevu",
+    "book_free_exam": "Randevu Al",
+    "write_whatsapp": "WhatsApp'tan Yazın",
+    "whatsapp_label": "WhatsApp ile yazın",
+    "whatsapp_message": "Merhaba, Ay Yıldız Ağız ve Diş Sağlığı Polikliniği için randevu almak istiyorum.",
+    "call_now": "Hemen Ara",
+    "read_more": "Detaylı bilgi",
+    "all_treatments": "Tüm tedaviler",
+    "all_dentists": "Tüm hekimler",
+    "all_faq": "Tüm soruları gör",
+    "address_label": "Adres",
+    "phone_label": "Telefon",
+    "email_label": "E-posta",
+    "hours_label": "Çalışma Saatleri",
+    "hours_text": "Pazartesi – Cuma 09:00 – 21:00 · Cumartesi 09:00 – 19:00 · Pazar kapalı",
+    "languages_label": "Hizmet dilleri",
+    "languages_text": "Türkçe · English · العربية",
+    "follow_us": "Bizi takip edin",
+    "rights": "Tüm hakları saklıdır.",
+    "founder_label": "Mesul Müdür",
+    "map_title": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği konumu",
+    "get_directions": "Yol tarifi al",
+    "breadcrumb_home": "Ana Sayfa",
+    "related_treatments": "İlgili tedaviler",
+    "faq_in_page": "Sık sorulan sorular",
+    "areas_label": "İlgi ve uygulama alanları",
+    "education_label": "Eğitim",
+    "experience_label": "Mesleki deneyim",
+    "certificates_label": "Kurslar, kongreler ve sertifikalar",
+    "memberships_label": "Mesleki üyelikler",
+    "languages_spoken_label": "Yabancı dil",
+    "book_with_doctor": "Bu hekimden randevu al",
+    "suitable_label": "Kimlere uygundur?",
+    "steps_label": "Tedavi nasıl ilerler?",
+    "benefits_label": "Avantajları",
+    "aftercare_label": "Tedavi sonrası",
+    "cta_title": "",
+    "cta_text": "",
+    "seo_footer_title": "Başakşehir Kayaşehir Diş Polikliniği",
+    "seo_footer_text": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği, Başakşehir Kayaşehir'de Seyranşehir Sitesi'nde hizmet veren bir diş polikliniğidir. Kayaşehir, Kayabaşı, Başakşehir, Bahçeşehir, Şahintepe ve Altınşehir çevresinden hastalarımıza implant, ortodonti, gülüş tasarımı, kanal tedavisi, dolgu, diş eti tedavisi ve çocuk diş hekimliği hizmeti sunuyoruz.",
+    "last_updated": "Son güncelleme",
+    "skip_to_content": "İçeriğe geç",
+    "page_not_found": "Sayfa bulunamadı",
+    "page_not_found_text": "Aradığınız sayfa taşınmış veya kaldırılmış olabilir.",
+    "back_home": "Ana sayfaya dön"
+  },
+  "home": {
+    "meta_title": "Başakşehir Kayaşehir Diş Polikliniği | Ay Yıldız Ağız ve Diş Sağlığı",
+    "meta_description": "Kayaşehir Başakşehir'de diş hekimi arıyorsanız: Ay Yıldız Ağız ve Diş Sağlığı Polikliniği'nde implant, ortodonti, gülüş tasarımı, çocuk diş hekimliği. 0212 931 99 32.",
+    "hero": {
+      "kicker": "Kayaşehir'in diş polikliniği",
+      "title": "Gülüşünüz emin ellerde.",
+      "subtitle": "Başakşehir Kayaşehir'de implant, gülüş tasarımı, ortodonti ve çocuk diş hekimliğinde kişiye özel, konforlu tedavi.",
+      "bullets": [
+        "8 uzman hekim",
+        "Uzman çocuk diş hekimi",
+        "Türkçe · English · العربية"
+      ],
+      "image_alt": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği resepsiyon alanı"
+    },
+    "trust": [
+      {
+        "big": "Çocuk Diş",
+        "small": "Uzman pedodontist ile korkusuz muayene"
+      },
+      {
+        "big": "8 Hekim",
+        "small": "Protez, ortodonti, pedodonti, endodonti"
+      },
+      {
+        "big": "Kayaşehir",
+        "small": "Seyranşehir Sitesi, metroya yakın"
+      },
+      {
+        "big": "Aile Hekimi",
+        "small": "Fabrikasyon değil, kişiye özel tedavi"
+      }
+    ],
+    "treatments_section": {
+      "kicker": "Tedavilerimiz",
+      "title": "Modern diş hekimliğinin tüm dalları",
+      "featured": [
+        "implant",
+        "gulus-tasarimi",
+        "ortodonti",
+        "cocuk-dis-hekimligi",
+        "kanal-tedavisi",
+        "dolgu",
+        "dis-eti-tedavisi",
+        "lamine"
+      ]
+    },
+    "why": {
+      "kicker": "Neden Ay Yıldız?",
+      "title": "Kişiye özel tedavi, aile sıcaklığı",
+      "items": [
+        {
+          "title": "Minimum işlem, maksimum konfor",
+          "text": "Gereksiz işlem yapmıyoruz. Her tedavi planı sizin ihtiyacınıza göre, anlaşılır biçimde anlatılarak hazırlanır."
+        },
+        {
+          "title": "Diş hekimi korkusuna çözüm",
+          "text": "Dijital anestezi, sakin bir ortam ve acele etmeyen hekimler. Korkusu olan yetişkinler ve çocuklar için özel yaklaşım."
+        },
+        {
+          "title": "Her branştan hekim bir arada",
+          "text": "Protez, ortodonti, kanal tedavisi, çocuk diş hekimliği ve estetik diş hekimliği aynı çatı altında."
+        },
+        {
+          "title": "Güncel teknoloji",
+          "text": "Dijital röntgen, güncel materyaller ve sürekli eğitim alan bir ekip ile modern diş hekimliği."
+        }
+      ]
+    },
+    "dentists_section": {
+      "kicker": "Hekimlerimiz",
+      "title": "Sizi tanıyan bir ekip",
+      "text": "Her biri kendi alanında eğitimli, hastasını dinleyen hekimler."
+    },
+    "child_section": {
+      "kicker": "Çocuk diş hekimliği",
+      "title": "Çocuğunuzun ilk diş hekimi deneyimi gülümsemeyle bitsin",
+      "text": "Uzman çocuk diş hekimimiz Dt. Vahide Ceyda Acar, dijital anestezi, pedodontik kron, ICON ve SDF uygulamalarını çocukların korkmadığı bir ortamda yapıyor.",
+      "cta": "Çocuk diş hekimliği"
+    },
+    "faq_section": {
+      "kicker": "Soru-Cevap",
+      "title": "Aklınızdaki sorular",
+      "text": "Diş eti kanaması, dolgu, implant, kanal tedavisi ve çocuk dişleri hakkında hekimlerimizin yanıtları.",
+      "featured": [
+        "Diş eti kanaması neden olur, tehlikeli mi?",
+        "İmplant tedavisi ağrılı mıdır?",
+        "Beyaz dolgu ne kadar dayanır?",
+        "Çocuğumu ilk kez kaç yaşında diş hekimine götürmeliyim?",
+        "Kanal tedavisi sonrası kaplama gerekir mi?"
+      ]
+    },
+    "location": {
+      "kicker": "Konum",
+      "title": "Kayaşehir'de, Seyranşehir Sitesi'nde",
+      "text": "Kayaşehir Bulvarı üzerinde, Kayaşehir Merkez metro durağına yürüme mesafesindeyiz. Site içinde otopark imkânı vardır."
+    },
+    "gallery": {
+      "kicker": "Kliniğimiz",
+      "title": "Modern, ferah ve steril bir ortam",
+      "photos": [
+        {
+          "file": "klinik-resepsiyon",
+          "alt": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği resepsiyon"
+        },
+        {
+          "file": "klinik-bekleme",
+          "alt": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği giriş ve tabela"
+        },
+        {
+          "file": "klinik-tedavi-odasi",
+          "alt": "Tedavi odası"
+        },
+        {
+          "file": "klinik-tedavi",
+          "alt": "Diş tedavisi sırasında hekimimiz"
+        }
+      ]
+    }
+  },
+  "about": {
+    "meta_title": "Hakkımızda | Ay Yıldız Ağız ve Diş Sağlığı Polikliniği Kayaşehir",
+    "meta_description": "Kayaşehir'de 'ailenizin diş hekimi' olmayı hedefleyen Ay Yıldız Ağız ve Diş Sağlığı Polikliniği: kişiye özel tedavi, diş hekimi korkusuna çözüm, güncel teknoloji.",
+    "title": "Hakkımızda",
+    "intro": "İstanbul Kayaşehir'de bulunan polikliniğimizde amacımız, hastalarımıza kaliteli sağlık hizmeti vermek ve onları diş hekimi korkusundan kurtaracak huzurlu ve donanımlı bir ortam sunmaktır.",
+    "paragraphs": [
+      "Kliniğimizde “minimum işlem ve prosedürle maksimum hasta konforu” felsefesini benimsiyoruz. Fabrikasyon işlemlerin yapıldığı yoğun kliniklerin aksine, kişiye özel tedavi ve estetik anlayışıyla hizmet veriyoruz. Hedefimiz ailenizin hekimi olabilmektir.",
+      "Eğitimin yaşam boyu devam etmesi gerektiğine inanıyoruz; güncel bilgi ve teknolojileri takip ederek hasta tedavilerimizde uyguluyoruz. Başta estetik diş hekimliği, implantoloji, ortodonti ve çocuk diş hekimliği olmak üzere modern diş hekimliğinin tüm dallarında hizmet veriyoruz.",
+      "Hekimlerimize yardımcı olan personelimiz de kendi alanlarında düzenli eğitimler alarak gelişmeleri takip eder. Sterilizasyon ve enfeksiyon kontrolü kliniğimizde ödün vermediğimiz ilk kuraldır."
+    ],
+    "values_title": "Değerlerimiz",
+    "values": [
+      {
+        "title": "Dürüst tedavi planı",
+        "text": "Gerekmeyen işlemi önermeyiz. Seçenekleri, sürelerini ve maliyetlerini açıkça anlatırız."
+      },
+      {
+        "title": "Hasta konforu",
+        "text": "Dijital anestezi ve sakin bir ortam ile ağrısız, korkusuz tedavi."
+      },
+      {
+        "title": "Sürekli eğitim",
+        "text": "Hekimlerimiz kongre, kurs ve sertifika programlarıyla güncel kalır."
+      },
+      {
+        "title": "Hijyen",
+        "text": "Her hasta için steril set, tek kullanımlık malzeme ve düzenli sterilizasyon kontrolü."
+      }
+    ],
+    "team_title": "Ekibimiz"
+  },
+  "treatments_index": {
+    "meta_title": "Diş Tedavileri | Kayaşehir Başakşehir Diş Polikliniği",
+    "meta_description": "Ay Yıldız ADSP Kayaşehir'de sunulan diş tedavileri: implant, gülüş tasarımı, lamine, ortodonti, çocuk diş hekimliği, kanal tedavisi, dolgu, diş eti tedavisi, beyazlatma, protez, diş çekimi.",
+    "title": "Tedavilerimiz",
+    "intro": "Başakşehir Kayaşehir'deki polikliniğimizde modern diş hekimliğinin tüm dallarında hizmet veriyoruz. Her tedavi muayene ve kişiye özel planlama ile başlar."
+  },
+  "treatments": [
+    {
+      "id": "implant",
+      "slug": "implant",
+      "icon": "implant",
+      "name": "İmplant",
+      "short": "Eksik dişler için doğal dişe en yakın kalıcı çözüm. Tek diş, çoklu ve implant üstü protez uygulamaları.",
+      "meta_title": "Kayaşehir İmplant Tedavisi | Başakşehir Diş İmplantı",
+      "meta_description": "Başakşehir Kayaşehir'de implant tedavisi: kimlere uygulanır, ne kadar sürer, ağrılı mıdır? İmplant muayenesi için Ay Yıldız ADSP'yi arayın.",
+      "h1": "Kayaşehir'de İmplant Tedavisi",
+      "intro": "İmplant, kaybedilmiş dişin yerine çene kemiğine yerleştirilen, gerçek diş kökünü taklit eden titanyum bir vidadır. Üzerine yapılan porselen veya zirkonyum kron ile doğal dişe en yakın görünüm ve çiğneme gücü elde edilir. Komşu dişlere dokunulmadığı için günümüzde eksik dişin en iyi alternatifidir.",
+      "sections": [
+        {
+          "title": "İmplant kimlere uygulanabilir?",
+          "items": [
+            "Bir veya birden fazla dişi eksik olan yetişkinler",
+            "Tam dişsiz ve hareketli protezden memnun olmayan hastalar (implant üstü sabit protez)",
+            "Çene kemiği yeterli olan veya kemik ilavesi ile yeterli hâle getirilebilen hastalar",
+            "Diş eti sağlığı kontrol altında olan hastalar"
+          ]
+        },
+        {
+          "title": "Tedavi nasıl ilerler?",
+          "items": [
+            "Muayene ve röntgen değerlendirmesi; kemik hacmi ve genel sağlık durumu incelenir.",
+            "Lokal anestezi altında implant çene kemiğine yerleştirilir. İşlem 20–40 dakika sürer ve diş çekiminden daha ağrılı değildir.",
+            "2–3 aylık kemikle kaynaşma (osseointegrasyon) dönemi. Bu süreçte geçici diş kullanılabilir.",
+            "Ölçü alınır ve kalıcı porselen ya da zirkonyum kron implant üzerine takılır."
+          ]
+        },
+        {
+          "title": "İmplantın avantajları",
+          "items": [
+            "Komşu sağlıklı dişler kesilmez.",
+            "Çiğneme gücü ve konuşma doğal dişe en yakın düzeye gelir.",
+            "Çene kemiğinin erimesini önler.",
+            "Düzenli bakımla ömür boyu kullanılabilir."
+          ]
+        },
+        {
+          "title": "İmplant sonrası bakım",
+          "text": "İlk gün soğuk uygulama ve yumuşak gıda önerilir. Sigara iyileşmeyi geciktirir. Günde iki kez fırçalama, ara yüz fırçası ve 6 ayda bir kontrol implantın ömrünü belirleyen en önemli etkenlerdir."
+        }
+      ],
+      "faq": [
+        {
+          "q": "İmplant tedavisi ağrılı mıdır?",
+          "a": "Hayır. İmplant lokal anestezi altında yapılır; işlem sırasında ağrı hissedilmez. Sonrasında 1–2 gün hafif hassasiyet olabilir, ağrı kesici ile rahatça geçer."
+        },
+        {
+          "q": "İmplant tedavisi ne kadar sürer?",
+          "a": "İmplantın yerleştirilmesi 20–40 dakika sürer. Kemikle kaynaşma için 2–3 ay beklenir, ardından kalıcı diş takılır. Uygun vakalarda aynı gün geçici diş yapılabilir."
+        },
+        {
+          "q": "Kemiğim yetersizse implant yapılabilir mi?",
+          "a": "Çoğu zaman evet. Kemik tozu (greft) veya sinüs lifting gibi işlemlerle kemik hacmi artırılarak implant uygulanabilir. Muayenede röntgen ile değerlendirilir."
+        },
+        {
+          "q": "İmplantın ömrü ne kadardır?",
+          "a": "İyi bir ağız hijyeni ve düzenli kontrollerle implant ömür boyu kullanılabilir. Üzerindeki kron 10–15 yılda yenilenebilir."
+        },
+        {
+          "q": "İmplant fiyatını ne belirler?",
+          "a": "Kullanılan implant markası, kron tipi (porselen/zirkonyum), kemik ilavesi gerekip gerekmediği ve implant sayısı fiyatı belirler. Muayenede net bir plan ve fiyat verilir."
+        }
+      ],
+      "related": [
+        "protez",
+        "dis-cekimi",
+        "dis-eti-tedavisi"
+      ]
+    },
+    {
+      "id": "gulus-tasarimi",
+      "slug": "gulus-tasarimi",
+      "icon": "smile",
+      "name": "Gülüş Tasarımı",
+      "short": "Yüz hatlarınıza, yaşınıza ve dudak yapınıza özel planlanan lamine, zirkonyum ve beyazlatma kombinasyonu.",
+      "meta_title": "Gülüş Tasarımı Kayaşehir | Estetik Diş Hekimliği Başakşehir",
+      "meta_description": "Başakşehir Kayaşehir'de gülüş tasarımı: yüz hatlarınıza özel lamine, zirkonyum, beyazlatma ve diş eti estetiği ile kişiye özel gülüş. Değerlendirme.",
+      "h1": "Gülüş Tasarımı",
+      "intro": "Gülüş tasarımı, hekimlik ve sanatın birlikte kullanılarak size özel ideal gülüşün planlanmasıdır. Yüz hatlarınız, cinsiyetiniz, yaşınız, dudak ve diş eti yapınız, dişlerinizin sıralanışı ve rengi birlikte değerlendirilir; sonuç yapay değil, size ait bir gülüştür.",
+      "sections": [
+        {
+          "title": "Gülüş tasarımında neler değerlendirilir?",
+          "items": [
+            "Yüz hatları ve gülüş simetrisi",
+            "Yaş ve cinsiyete uygun diş formu",
+            "Dişlerin sıralanışı, boyu ve rengi",
+            "Dudak çizgisi ve diş eti görünürlüğü",
+            "Çene ilişkisi ve çiğneme fonksiyonu"
+          ]
+        },
+        {
+          "title": "Hangi tedaviler kullanılır?",
+          "items": [
+            "Porselen lamine (yaprak) kaplamalar",
+            "Zirkonyum kronlar",
+            "Diş beyazlatma",
+            "Kompozit bonding ile küçük düzeltmeler",
+            "Diş eti şekillendirme (pembe estetik)",
+            "Gerekirse ortodonti ile ön hazırlık"
+          ]
+        },
+        {
+          "title": "Tedavi nasıl ilerler?",
+          "items": [
+            "Muayene, fotoğraf ve röntgen analizi.",
+            "Dijital veya mum model üzerinde yeni gülüşün tasarımı; isteğe göre geçici deneme (mock-up).",
+            "Onay sonrası dişlerin minimal hazırlığı ve laboratuvar süreci.",
+            "Kalıcı restorasyonların yapıştırılması ve kontrol. Ortalama 7–14 gün."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Gülüş tasarımı kaç seans sürer?",
+          "a": "Çoğunlukla 2–4 seans ve toplam 1–2 hafta. Ortodonti veya diş eti tedavisi gerekiyorsa süre uzar."
+        },
+        {
+          "q": "Gülüş tasarımı dişlere zarar verir mi?",
+          "a": "Lamine ve bonding uygulamalarında dişten çok az madde kaldırılır; bazı vakalarda hiç kaldırılmaz. Doğru planlandığında dişe zarar vermez."
+        },
+        {
+          "q": "Sonuç ne kadar kalıcıdır?",
+          "a": "Porselen lamine ve zirkonyum restorasyonlar iyi bakımla 10–15 yıl ve üzeri kullanılır. Beyazlatmanın etkisi 1–3 yıldır."
+        },
+        {
+          "q": "Sonucu önceden görebilir miyim?",
+          "a": "Evet. Dijital tasarım ve ağız içi mock-up ile kalıcı işleme başlamadan yeni gülüşünüzü deneyebilirsiniz."
+        }
+      ],
+      "related": [
+        "lamine",
+        "dis-beyazlatma",
+        "ortodonti"
+      ]
+    },
+    {
+      "id": "lamine",
+      "slug": "lamine-dis-kaplama",
+      "icon": "veneer",
+      "name": "Lamine (Yaprak Porselen)",
+      "short": "Ön dişlerde renk, şekil ve aralık sorunlarına çok ince porselen yapraklarla kalıcı estetik çözüm.",
+      "meta_title": "Lamine Diş Kaplama Kayaşehir | Yaprak Porselen Başakşehir",
+      "meta_description": "Kayaşehir'de lamine (yaprak porselen) diş kaplama: renk, aralık, kırık ve çapraşıklık sorunlarına minimal aşındırma ile estetik çözüm. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Lamine Diş Kaplama (Yaprak Porselen)",
+      "intro": "Lamine, estetik sorunları olan ön dişlerin ön yüzüne yapıştırılan 0,3–0,7 mm kalınlığında porselen tabakalardır. Dişten çok az madde kaldırılır; renk, şekil ve küçük sıralama sorunları tek seferde çözülür.",
+      "sections": [
+        {
+          "title": "Lamine hangi durumlarda uygulanır?",
+          "items": [
+            "Beyazlatma ile giderilemeyen renk değişiklikleri",
+            "Dişler arası boşluklar (diastema)",
+            "Kırık, aşınmış veya kısa dişler",
+            "Eski ve renklenmiş dolguların düzeltilmesi",
+            "Hafif çapraşıklık (ortodonti istemeyen hastalarda)"
+          ]
+        },
+        {
+          "title": "Tedavi nasıl ilerler?",
+          "items": [
+            "Muayene, renk ve form planlaması.",
+            "Dişlerin ön yüzünden çok ince bir tabaka kaldırılır ve ölçü alınır.",
+            "Laboratuvarda size özel porselen laminalar hazırlanırken geçici laminalar takılır.",
+            "Laminalar özel adeziv ile yapıştırılır. Toplam 5–10 gün."
+          ]
+        },
+        {
+          "title": "Avantajları",
+          "items": [
+            "Doğal diş ışık geçirgenliğine en yakın görünüm",
+            "Lekelenmeye ve renk değişimine dirençli",
+            "Minimal aşındırma, diş canlılığı korunur",
+            "10–15 yıl ve üzeri kullanım ömrü"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Lamine mi zirkonyum mu?",
+          "a": "Dişte büyük madde kaybı veya kanal tedavisi yoksa lamine daha az aşındırma gerektirir ve daha doğal görünür. Büyük dolgulu veya çok çapraşık dişlerde zirkonyum kron tercih edilir."
+        },
+        {
+          "q": "Lamine dişler kırılır mı?",
+          "a": "Porselen laminalar yapıştırıldıktan sonra dişle bütünleşir ve normal çiğneme kuvvetlerine dayanır. Diş sıkma alışkanlığı olanlarda gece plağı önerilir."
+        },
+        {
+          "q": "Lamine yaptırırken ağrı olur mu?",
+          "a": "Hazırlık çok yüzeysel olduğundan genellikle anesteziye bile gerek kalmaz; işlem ağrısızdır."
+        }
+      ],
+      "related": [
+        "gulus-tasarimi",
+        "dis-beyazlatma",
+        "dolgu"
+      ]
+    },
+    {
+      "id": "ortodonti",
+      "slug": "ortodonti",
+      "icon": "braces",
+      "name": "Ortodonti (Diş Teli ve Şeffaf Plak)",
+      "short": "Çocuk ve yetişkinlerde metal, seramik tel ve şeffaf plak ile düzgün sıralanmış dişler.",
+      "meta_title": "Ortodonti Kayaşehir | Diş Teli ve Şeffaf Plak Başakşehir",
+      "meta_description": "Başakşehir Kayaşehir'de ortodonti: çocuk ve yetişkinlerde diş teli, seramik braket ve şeffaf plak tedavisi. 7 yaşından itibaren ortodonti kontrolü.",
+      "h1": "Ortodonti: Diş Teli ve Şeffaf Plak",
+      "intro": "Ortodonti, diş ve çene uyumsuzluklarının düzeltilerek hastaya iyi bir estetik, konuşma ve çiğneme fonksiyonu kazandırılmasını amaçlayan diş hekimliği dalıdır. Çapraşık dişler yalnızca görünümü değil; diş eti sağlığını, çürük riskini ve çene eklemini de etkiler.",
+      "sections": [
+        {
+          "title": "Ortodonti kimlere uygulanır?",
+          "items": [
+            "Çapraşık, aralıklı veya dönük dişleri olan her yaştan hasta",
+            "Alt ve üst çene uyumsuzluğu (kapanış bozukluğu) olanlar",
+            "7–10 yaş arası çocuklarda erken dönem kontrol ve gerekirse çene yönlendirme",
+            "Dişleri düzgün görünen ancak kapanışı bozuk hastalar"
+          ]
+        },
+        {
+          "title": "Tedavi seçenekleri",
+          "items": [
+            "Metal braketler: en ekonomik ve etkili yöntem",
+            "Seramik (diş rengi) braketler: daha az görünür",
+            "Şeffaf plaklar: çıkarılabilir, neredeyse görünmez; uygun vakalarda",
+            "Hareketli apareyler: büyüme dönemindeki çocuklarda"
+          ]
+        },
+        {
+          "title": "Tedavi süreci",
+          "items": [
+            "Muayene, panoramik ve sefalometrik röntgen, model analizi.",
+            "Tedavi planı ve seçeneklerin anlatılması.",
+            "Braket veya plak uygulaması; 4–8 haftada bir kontrol.",
+            "Tedavi 6 ay ile 3 yıl arasında sürer; sonrasında pekiştirme (retansiyon) dönemi."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Ortodonti tedavisi için yaş sınırı var mı?",
+          "a": "Hayır. Diş ve diş eti sağlıklı olduğu sürece her yaşta ortodonti yapılabilir. Çocuklarda ilk kontrol 7 yaş civarında önerilir."
+        },
+        {
+          "q": "Şeffaf plak mı diş teli mi?",
+          "a": "Şeffaf plak görünmezlik ve konfor sağlar; hafif-orta vakalarda idealdir. Ciddi kapanış bozukluklarında sabit braketler daha güçlü sonuç verir. Muayenede size uygun olan belirlenir."
+        },
+        {
+          "q": "Diş teli ağrı yapar mı?",
+          "a": "Takıldıktan sonraki 2–3 gün ve her kontrol sonrası hafif baskı hissi olur; bu normaldir ve kısa sürede geçer."
+        },
+        {
+          "q": "Tedavi bitince dişler eski hâline döner mi?",
+          "a": "Pekiştirme plağı veya sabit tel kullanılmazsa dönebilir. Bu nedenle tedavi sonrası retansiyon dönemi tedavinin parçasıdır."
+        }
+      ],
+      "related": [
+        "cocuk-dis-hekimligi",
+        "gulus-tasarimi",
+        "dis-cekimi"
+      ]
+    },
+    {
+      "id": "cocuk-dis-hekimligi",
+      "slug": "cocuk-dis-hekimligi",
+      "icon": "child",
+      "name": "Çocuk Diş Hekimliği (Pedodonti)",
+      "short": "Uzman pedodontist ile dijital anestezi, koruyucu uygulamalar ve korkusuz ilk muayene.",
+      "meta_title": "Çocuk Diş Hekimi Kayaşehir | Pedodonti Başakşehir",
+      "meta_description": "Kayaşehir'de çocuk diş hekimi: uzman çocuk diş hekimi Dt. Vahide Ceyda Acar ile süt dişi tedavisi, fissür örtücü, flor, pedodontik kron, dijital anestezi. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Çocuk Diş Hekimliği",
+      "intro": "Pedodonti, 0–14 yaş arası çocukların süt ve daimi dişlerinin sağlığını korumayı ve tedavi etmeyi amaçlayan uzmanlık dalıdır. Çocuk diş hekimimiz, ilk muayeneyi oyun gibi geçiren, acıtmayan ve çocuğun güvenini kazanan bir yaklaşım uygular; böylece ömür boyu sürecek diş hekimi korkusunun önüne geçilir.",
+      "sections": [
+        {
+          "title": "Sunduğumuz uygulamalar",
+          "items": [
+            "Koruyucu uygulamalar: flor verniği, fissür örtücü",
+            "Süt ve daimi dişlerde dolgu ve kanal (amputasyon) tedavileri",
+            "Pedodontik (çelik ve estetik) kronlar",
+            "ICON ile beyaz leke tedavisi ve SDF ile çürük durdurma",
+            "Yer tutucu uygulamaları",
+            "Dijital anestezi ile ağrısız işlem",
+            "Klinikte tedavisi mümkün olmayan çocuklarda genel anestezi altında tedavi planlaması"
+          ]
+        },
+        {
+          "title": "İlk muayene ne zaman olmalı?",
+          "text": "İlk süt dişi çıktığında, en geç 1 yaşında. Erken tanışma hem çürüğü hem korkuyu önler. 7 yaş civarında ortodontik kontrol önerilir."
+        },
+        {
+          "title": "Anne babalara öneriler",
+          "items": [
+            "Gece biberonla süt veya meyve suyu vermeyin (biberon çürüğü).",
+            "2 yaşından itibaren florlu çocuk macunu ile günde iki kez fırçalayın.",
+            "6 ayda bir kontrol ve flor uygulaması.",
+            "Çocuğun yanında diş hekimini korkutucu anlatmayın."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Süt dişleri nasıl olsa düşecek, tedavi gerekli mi?",
+          "a": "Evet. Çürük süt dişi ağrı, apse ve altındaki daimi dişte hasara yol açar; erken kaybedilirse yer darlığı ve çapraşıklık oluşur."
+        },
+        {
+          "q": "Çocuğum diş hekiminden korkuyor, ne yapabiliriz?",
+          "a": "İlk randevu yalnızca tanışma ve oyun amaçlıdır. Dijital anestezi ile iğne hissi yoktur. Gerekirse aşamalı alıştırma yapılır."
+        },
+        {
+          "q": "Flor uygulaması güvenli mi?",
+          "a": "Evet. Profesyonel flor verniği dünya çapında önerilen, güvenli ve etkili bir çürük önleme yöntemidir."
+        },
+        {
+          "q": "Genel anestezi altında diş tedavisi hangi çocuklara yapılır?",
+          "a": "Çok küçük yaşta ve çok sayıda çürüğü olan, klinik ortamda iş birliği yapamayan veya özel gereksinimli çocuklarda hastane ortamında planlanır."
+        }
+      ],
+      "related": [
+        "ortodonti",
+        "dolgu",
+        "kanal-tedavisi"
+      ]
+    },
+    {
+      "id": "kanal-tedavisi",
+      "slug": "kanal-tedavisi",
+      "icon": "root",
+      "name": "Kanal Tedavisi (Endodonti)",
+      "short": "İltihaplı veya ağrılı dişi çekmeden kurtaran, çoğunlukla tek seansta tamamlanan tedavi.",
+      "meta_title": "Kanal Tedavisi Kayaşehir | Endodonti Başakşehir Diş",
+      "meta_description": "Kayaşehir'de kanal tedavisi: neden gerekir, kaç seans sürer, ağrılı mıdır? Ay Yıldız ADSP Başakşehir'de dişinizi çekmeden kurtaran endodonti tedavisi.",
+      "h1": "Kanal Tedavisi",
+      "intro": "Kanal tedavisi, çürük veya travma nedeniyle dişin içindeki sinir-damar dokusunun (pulpa) iltihaplandığı durumlarda dişi çekmeden kurtarmak için yapılır. İltihaplı doku temizlenir, kanallar dezenfekte edilip doldurulur; diş ağızda kalmaya devam eder.",
+      "sections": [
+        {
+          "title": "Kanal tedavisi ne zaman gerekir?",
+          "items": [
+            "Sıcak-soğukta uzun süren veya kendiliğinden gelen diş ağrısı",
+            "Gece uyandıran zonklama",
+            "Diş eti üzerinde şişlik veya fistül (apse)",
+            "Dişin renginde koyulaşma",
+            "Derin çürük veya kırık nedeniyle sinire ulaşmış hasar"
+          ]
+        },
+        {
+          "title": "Tedavi nasıl ilerler?",
+          "items": [
+            "Röntgen ile kanal yapısı değerlendirilir, lokal anestezi yapılır.",
+            "Çürük temizlenir, kanallara ulaşılır ve döner alet sistemiyle şekillendirilir.",
+            "Kanallar dezenfekte edilir ve özel dolgu maddesi ile kapatılır.",
+            "Diş üst dolgu veya kron ile restore edilir. Çoğu vakada tek seans; apseli dişlerde 2–3 seans."
+          ]
+        },
+        {
+          "title": "Tedavi sonrası",
+          "text": "Birkaç gün çiğneme hassasiyeti normaldir. Kanal tedavili diş kırılgan olduğundan arka dişlerde kron veya onley ile koruma önerilir."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kanal tedavisi ağrılı mıdır?",
+          "a": "Hayır. Lokal anestezi altında yapılır. Ağrı genellikle tedaviden önce vardır; tedavi bu ağrıyı ortadan kaldırır."
+        },
+        {
+          "q": "Kanal tedavisi kaç seans sürer?",
+          "a": "Çoğu diş tek seansta (45–90 dakika) tamamlanır. Apse veya yoğun enfeksiyon varsa 2–3 seans gerekebilir."
+        },
+        {
+          "q": "Kanal tedavisi sonrası kaplama gerekir mi?",
+          "a": "Arka dişlerde evet; kanal tedavili diş daha kırılgandır ve kron ile korunması ömrünü uzatır. Ön dişlerde dolgu çoğu zaman yeterlidir."
+        },
+        {
+          "q": "Dişimi çektirsem daha iyi olmaz mı?",
+          "a": "Kendi dişiniz her zaman en iyi seçenektir. Çekim sonrası boşluk implant veya köprü gerektirir; kanal tedavisi daha ekonomik ve doğaldır."
+        }
+      ],
+      "related": [
+        "dolgu",
+        "protez",
+        "implant"
+      ]
+    },
+    {
+      "id": "dolgu",
+      "slug": "dis-dolgusu",
+      "icon": "filling",
+      "name": "Diş Dolgusu",
+      "short": "Çürük temizlenip diş rengindeki kompozit ile tek seansta onarım. Estetik ve dayanıklı.",
+      "meta_title": "Diş Dolgusu Kayaşehir | Beyaz Kompozit Dolgu Başakşehir",
+      "meta_description": "Kayaşehir'de diş dolgusu: beyaz kompozit dolgu, inley-onley porselen dolgu, dolgu sonrası hassasiyet ve dolgu ömrü hakkında bilgi. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Diş Dolgusu",
+      "intro": "Dolgu, çürük veya kırık nedeniyle kaybedilen diş dokusunun yerine konularak dişin şekil ve fonksiyonunun geri kazandırılmasıdır. Diş rengindeki kompozit dolgular tek seansta yapılır ve estetik olarak fark edilmez.",
+      "sections": [
+        {
+          "title": "Dolgu çeşitleri",
+          "items": [
+            "Kompozit (beyaz) dolgu: tek seans, estetik, dişe yapışarak bağlanır",
+            "İnley-onley (porselen) dolgu: büyük madde kayıplarında laboratuvarda hazırlanan dayanıklı restorasyon",
+            "Kompozit bonding: ön dişlerde kırık ve aralık kapatma"
+          ]
+        },
+        {
+          "title": "Tedavi nasıl ilerler?",
+          "items": [
+            "Çürüğün derinliği muayene ve röntgen ile belirlenir.",
+            "Gerekirse lokal anestezi; çürük tamamen temizlenir.",
+            "Kompozit tabaka tabaka yerleştirilip ışıkla sertleştirilir.",
+            "Kapanış kontrolü ve cilalama. Toplam 30–45 dakika."
+          ]
+        },
+        {
+          "title": "Dolgu sonrası",
+          "text": "Anestezi geçene kadar yemek yemeyin. İlk günlerde soğuk hassasiyeti normaldir. Dolgulu diş normal fırçalanır; sert cisim ısırmaktan kaçının."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Beyaz dolgu ne kadar dayanır?",
+          "a": "Düzenli bakımla ortalama 7–10 yıl. Dolgunun büyüklüğü, konumu ve diş sıkma alışkanlığı ömrü etkiler."
+        },
+        {
+          "q": "Beyaz dolgu mu amalgam (siyah) dolgu mu?",
+          "a": "Kompozit dolgular estetik olup dişe bağlanarak dişi güçlendirir ve daha az madde kaldırılmasını gerektirir. Bu nedenle günümüzde tercih edilen seçenektir."
+        },
+        {
+          "q": "Dolgu sonrası ağrı normal mi?",
+          "a": "Soğuk-sıcak hassasiyeti birkaç gün ile birkaç hafta sürebilir. Isırma ağrısı varsa dolgu yüksek olabilir; kısa bir düzeltme ile geçer."
+        },
+        {
+          "q": "Hamilelikte dolgu yaptırılır mı?",
+          "a": "Evet. Özellikle 2. trimesterde güvenle yapılır; ağrılı ve enfekte dişin bekletilmesi daha risklidir."
+        }
+      ],
+      "related": [
+        "kanal-tedavisi",
+        "lamine",
+        "cocuk-dis-hekimligi"
+      ]
+    },
+    {
+      "id": "dis-eti-tedavisi",
+      "slug": "dis-eti-tedavisi-dis-tasi-temizligi",
+      "icon": "gum",
+      "name": "Diş Eti Tedavisi ve Diş Taşı Temizliği",
+      "short": "Diş eti kanaması, çekilmesi ve ağız kokusunun en sık nedeni olan diş taşı ve iltihabın tedavisi.",
+      "meta_title": "Diş Eti Kanaması Tedavisi Kayaşehir | Diş Taşı Temizliği Başakşehir",
+      "meta_description": "Kayaşehir'de diş eti kanaması ve diş taşı temizliği: diş eti iltihabı (gingivitis), periodontitis, küretaj ve koruyucu bakım. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Diş Eti Tedavisi ve Diş Taşı Temizliği",
+      "intro": "Diş eti kanaması, kızarıklık ve ağız kokusunun en sık nedeni dişlerin üzerinde biriken plak ve diş taşıdır. Tedavi edilmeyen diş eti iltihabı (gingivitis) ilerleyerek kemik kaybına ve diş sallanmasına (periodontitis) yol açar. Erken dönemde basit bir temizlikle tamamen geri döndürülebilir.",
+      "sections": [
+        {
+          "title": "Belirtiler",
+          "items": [
+            "Fırçalarken veya kendiliğinden diş eti kanaması",
+            "Kızarık, şiş veya hassas diş eti",
+            "Diş eti çekilmesi ve dişlerin uzamış görünmesi",
+            "Kalıcı ağız kokusu",
+            "Dişlerde sallanma veya aralanma"
+          ]
+        },
+        {
+          "title": "Tedavi seçenekleri",
+          "items": [
+            "Diş taşı temizliği (detertraj): ultrasonik cihazla, 30–45 dakika, ağrısız",
+            "Kök yüzeyi düzleştirme (küretaj): diş eti altındaki taşların temizlenmesi, anestezi ile",
+            "Diş eti operasyonları: ileri vakalarda flap cerrahisi ve kemik düzenleme",
+            "Diş eti estetiği: gummy smile ve çekilme düzeltmeleri"
+          ]
+        },
+        {
+          "title": "Korunma",
+          "items": [
+            "Günde 2 kez 2 dakika fırçalama",
+            "Her gün diş ipi veya ara yüz fırçası",
+            "6 ayda bir kontrol ve temizlik",
+            "Sigaranın bırakılması"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Diş eti kanaması neden olur, tehlikeli mi?",
+          "a": "En sık nedeni plak ve diş taşının yol açtığı diş eti iltihabıdır. Erken dönemde tehlikeli değildir ve temizlikle 1–2 haftada geriler; ihmal edilirse kemik kaybına ve diş kaybına ilerler."
+        },
+        {
+          "q": "Diş taşı temizliği dişe zarar verir mi?",
+          "a": "Hayır. Ultrasonik temizlik yalnızca taşı uzaklaştırır, mineye zarar vermez. Temizlik sonrası hissedilen aralıklar zaten taşın kapladığı boşluklardır."
+        },
+        {
+          "q": "Diş taşı temizliği ne sıklıkla yapılmalı?",
+          "a": "Çoğu kişi için 6 ayda bir; diş eti hastalığı öyküsü, sigara veya diyabet varsa 3–4 ayda bir."
+        },
+        {
+          "q": "Diş eti çekilmesi geri gelir mi?",
+          "a": "Çekilen diş eti kendiliğinden geri gelmez; ancak ilerlemesi durdurulabilir ve uygun vakalarda diş eti grefti ile örtülebilir."
+        },
+        {
+          "q": "Diş ipi kullanmalı mıyım?",
+          "a": "Evet. Fırça diş yüzeylerinin yalnızca yaklaşık %60'ını temizler; ara yüzler için diş ipi veya ara yüz fırçası şarttır."
+        }
+      ],
+      "related": [
+        "dolgu",
+        "implant",
+        "dis-beyazlatma"
+      ]
+    },
+    {
+      "id": "dis-beyazlatma",
+      "slug": "dis-beyazlatma",
+      "icon": "whitening",
+      "name": "Diş Beyazlatma",
+      "short": "Ofis tipi tek seans beyazlatma ve ev tipi plaklı beyazlatma ile birkaç ton daha beyaz dişler.",
+      "meta_title": "Diş Beyazlatma Kayaşehir | Ofis Tipi Beyazlatma Başakşehir",
+      "meta_description": "Kayaşehir'de diş beyazlatma: ofis tipi tek seans ve ev tipi beyazlatma, kalıcılık, hassasiyet ve güvenlik hakkında bilgi. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Diş Beyazlatma",
+      "intro": "Diş beyazlatma, mine ve dentin içine işlemiş renklenmelerin özel jellerle açılmasıdır. Diş hekimi kontrolünde yapıldığında güvenlidir ve tek seansta birkaç ton açılma sağlar.",
+      "sections": [
+        {
+          "title": "Beyazlatma yöntemleri",
+          "items": [
+            "Ofis tipi: klinikte 45–60 dakika, ışık destekli, anında sonuç",
+            "Ev tipi: size özel plak ve jel ile 1–2 hafta evde uygulama",
+            "Kombine: en kalıcı sonuç için ikisi birlikte",
+            "Tek diş beyazlatma: kanal tedavili koyu dişlerde içten beyazlatma"
+          ]
+        },
+        {
+          "title": "Beyazlatma öncesi",
+          "text": "Önce diş taşı temizliği yapılır ve çürükler tedavi edilir. Dolgu, kron ve lamineler beyazlamaz; gerekirse işlem sonrası yenilenir."
+        },
+        {
+          "title": "Sonrası ve kalıcılık",
+          "text": "İlk 48 saat çay, kahve, sigara ve renkli gıdalardan kaçınılır. Etki alışkanlıklara göre 1–3 yıl sürer; ev tipi plakla kolayca tazelenir."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Diş beyazlatma dişlere zarar verir mi?",
+          "a": "Hekim kontrolünde, uygun konsantrasyonla yapıldığında mineye zarar vermez. Geçici hassasiyet olabilir ve 1–2 günde geçer."
+        },
+        {
+          "q": "Kaç ton beyazlar?",
+          "a": "Genellikle 2–4 ton. Sarımsı renklenmeler gri-kahverengi renklenmelere göre daha iyi yanıt verir."
+        },
+        {
+          "q": "Beyazlatma kimlere yapılmaz?",
+          "a": "Hamile ve emzirenlere, 16 yaş altına, tedavi edilmemiş çürük veya diş eti hastalığı olanlara ve ileri mine hassasiyeti olanlara önerilmez."
+        }
+      ],
+      "related": [
+        "gulus-tasarimi",
+        "lamine",
+        "dis-eti-tedavisi"
+      ]
+    },
+    {
+      "id": "protez",
+      "slug": "dis-protezi-zirkonyum-kaplama",
+      "icon": "crown",
+      "name": "Protez ve Zirkonyum Kaplama",
+      "short": "Zirkonyum ve porselen kronlar, köprüler, implant üstü ve hareketli protezlerle çiğneme ve estetiğin geri kazanımı.",
+      "meta_title": "Zirkonyum Kaplama ve Diş Protezi Kayaşehir | Başakşehir",
+      "meta_description": "Kayaşehir'de zirkonyum kaplama, porselen kron, köprü, implant üstü protez ve hareketli protez. Protez uzmanı hekimlerle kişiye özel çözüm. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Protez ve Zirkonyum Kaplama",
+      "intro": "Protetik diş tedavisi, eksik veya aşırı harap olmuş dişlerin yerine kron, köprü, implant üstü protez ya da hareketli protezlerle fonksiyon ve estetiğin geri kazandırılmasıdır. Metal desteksiz zirkonyum kronlar doğal diş görünümü ve yüksek dayanıklılık sunar.",
+      "sections": [
+        {
+          "title": "Protez seçenekleri",
+          "items": [
+            "Zirkonyum kron: metal içermez, diş eti kararması yapmaz, doğal ışık geçirgenliği",
+            "Porselen (metal destekli) kron: ekonomik ve dayanıklı",
+            "Köprü: eksik dişin iki yanındaki dişlerden destek alan sabit protez",
+            "İmplant üstü sabit veya hareketli protez",
+            "Total ve parsiyel hareketli protezler",
+            "Gece plağı: diş sıkma ve gıcırdatmada koruma"
+          ]
+        },
+        {
+          "title": "Tedavi nasıl ilerler?",
+          "items": [
+            "Muayene ve planlama; renk seçimi.",
+            "Dişlerin hazırlanması ve dijital veya klasik ölçü.",
+            "Geçici kron ile laboratuvar süreci (5–7 gün).",
+            "Prova, kapanış kontrolü ve kalıcı yapıştırma."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Zirkonyum kaplama ne kadar dayanır?",
+          "a": "İyi bakımla 10–15 yıl ve üzeri. Düzenli kontrol ve diş ipi kullanımı kenar çürüklerini önler."
+        },
+        {
+          "q": "Zirkonyum mu porselen mi?",
+          "a": "Zirkonyum metal içermediği için daha estetiktir ve diş eti kenarında kararma yapmaz; özellikle ön dişlerde tercih edilir. Arka dişlerde her ikisi de başarılıdır."
+        },
+        {
+          "q": "Kaplama yapılırken dişler çok mu kesilir?",
+          "a": "Zirkonyum için dişten yaklaşık 1–1,5 mm madde kaldırılır. Diş canlılığı çoğunlukla korunur."
+        }
+      ],
+      "related": [
+        "implant",
+        "kanal-tedavisi",
+        "gulus-tasarimi"
+      ]
+    },
+    {
+      "id": "dis-cekimi",
+      "slug": "dis-cekimi-gomulu-20-yas-disi",
+      "icon": "extraction",
+      "name": "Diş Çekimi ve Gömülü 20 Yaş Dişi",
+      "short": "Kurtarılamayan dişlerin ağrısız çekimi ve gömülü yirmi yaş dişi operasyonları.",
+      "meta_title": "Diş Çekimi ve 20 Yaş Dişi Kayaşehir | Gömülü Diş Başakşehir",
+      "meta_description": "Kayaşehir'de ağrısız diş çekimi ve gömülü 20 yaş dişi operasyonu: ne zaman gerekir, iyileşme süreci, çekim sonrası bakım. Ay Yıldız ADSP Başakşehir.",
+      "h1": "Diş Çekimi ve Gömülü 20 Yaş Dişi",
+      "intro": "Diş çekimi, dolgu, kanal tedavisi veya kron ile kurtarılamayan dişlerde son seçenektir. Yirmi yaş dişleri ise çoğunlukla çeneye sığmadığı için gömülü kalır; ağrı, komşu dişte çürük ve kist riski nedeniyle çekilmeleri gerekebilir.",
+      "sections": [
+        {
+          "title": "Diş çekimi ne zaman gerekir?",
+          "items": [
+            "Aşırı çürük veya kırık nedeniyle restore edilemeyen dişler",
+            "İleri diş eti hastalığı nedeniyle sallanan dişler",
+            "Gömülü veya yarı gömülü 20 yaş dişleri",
+            "Ortodontik tedavi için yer açılması",
+            "Düşmeyen süt dişleri"
+          ]
+        },
+        {
+          "title": "İşlem nasıl yapılır?",
+          "items": [
+            "Röntgen ile kök yapısı ve sinir yakınlığı değerlendirilir.",
+            "Lokal anestezi; işlem sırasında ağrı hissedilmez, yalnızca baskı hissi olur.",
+            "Basit çekim 10–20 dakika; gömülü diş operasyonu 30–60 dakika.",
+            "Gerekirse dikiş atılır; 7–10 gün sonra alınır."
+          ]
+        },
+        {
+          "title": "Çekim sonrası bakım",
+          "items": [
+            "Tamponu 30–45 dakika ısırın, tükürmeyin ve çalkalamayın.",
+            "İlk gün sıcak yiyecek, sigara ve pipet kullanmayın.",
+            "Yüze dışarıdan soğuk uygulayın; 2. günden itibaren ılık tuzlu su ile nazikçe çalkalayın.",
+            "Ağrı kesicinizi hekiminizin önerdiği şekilde kullanın."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Dişimi çektirmesem, sadece antibiyotik kullansam olmaz mı?",
+          "a": "Antibiyotik yalnızca enfeksiyonu geçici olarak baskılar; kaynağı olan diş tedavi edilmezse apse tekrarlar. Antibiyotik gerektiğinde tedaviye destek olarak verilir."
+        },
+        {
+          "q": "Her 20 yaş dişi çekilmeli mi?",
+          "a": "Hayır. Düzgün sürmüş, temizlenebilen ve sorun yaratmayan 20 yaş dişleri ağızda kalabilir. Gömülü, ağrı yapan veya komşu dişi çürüten dişler çekilir."
+        },
+        {
+          "q": "Çekim sonrası iyileşme ne kadar sürer?",
+          "a": "Basit çekimde 3–5 gün, gömülü diş operasyonunda 7–10 günde günlük hayata tam dönüş sağlanır. Şişlik 2–3. günde en fazladır ve sonra azalır."
+        },
+        {
+          "q": "Çekilen dişin yerine ne yapılmalı?",
+          "a": "20 yaş dişi dışındaki eksik dişlerde boşluk komşu dişlerin devrilmesine yol açar. İmplant veya köprü ile 2–3 ay içinde yerine koyulması önerilir."
+        }
+      ],
+      "related": [
+        "implant",
+        "ortodonti",
+        "dis-eti-tedavisi"
+      ]
+    }
+  ],
+  "dentists_index": {
+    "meta_title": "Hekimlerimiz | Kayaşehir Diş Hekimleri – Ay Yıldız ADSP",
+    "meta_description": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği Kayaşehir hekim kadrosu: Dt. Fatih Gülcü, Dt. Rukiye Şule Yaşar, Dt. Vahide Ceyda Acar (çocuk diş hekimi), Dt. Buse Günaydın, Dt. Emirhan Yücetürk.",
+    "title": "Hekimlerimiz",
+    "intro": "Her biri kendi alanında eğitimli, hastasını dinleyen ve anlaşılır biçimde bilgilendiren bir ekip."
+  },
+  "dentists": [
+    {
+      "id": "fatih-gulcu",
+      "slug": "dt-fatih-gulcu",
+      "name": "Dt. Fatih Gülcü",
+      "title": "Diş Hekimi · Kurucu ve Mesul Müdür",
+      "specialty": "Estetik diş hekimliği, implantoloji",
+      "photo": "fatih",
+      "has_photo": false,
+      "meta_title": "Dt. Fatih Gülcü | Diş Hekimi Kayaşehir Başakşehir",
+      "meta_description": "Dt. Fatih Gülcü, Ay Yıldız Ağız ve Diş Sağlığı Polikliniği'nin kurucu hekimi ve mesul müdürüdür. Kayaşehir'de estetik diş hekimliği ve implantoloji.",
+      "summary": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği'nin kurucu hekimi. Kişiye özel tedavi ve “ailenizin hekimi olmak” anlayışıyla Kayaşehir'de hizmet veriyor.",
+      "about": [
+        "Dt. Fatih Gülcü, Kayaşehir'de kurduğu poliklinikte minimum işlemle maksimum hasta konforunu hedefleyen bir tedavi anlayışı benimser. Estetik diş hekimliği ve implantoloji başta olmak üzere modern diş hekimliğinin tüm dallarında hasta kabul eder.",
+        "Diş hekimi korkusu olan hastaların huzurlu ve donanımlı bir ortamda tedavi görmesini önemser; eğitimin yaşam boyu sürdüğü inancıyla güncel teknoloji ve yöntemleri kliniğe taşır."
+      ],
+      "areas": [
+        "Estetik diş hekimliği ve gülüş tasarımı",
+        "İmplant tedavileri",
+        "Zirkonyum ve porselen restorasyonlar",
+        "Genel diş hekimliği"
+      ],
+      "education": [],
+      "experience": [],
+      "certificates": [],
+      "memberships": [],
+      "languages": [
+        "Türkçe"
+      ]
+    },
+    {
+      "id": "rukiye-sule-yasar",
+      "slug": "dt-rukiye-sule-yasar",
+      "name": "Dt. Rukiye Şule Yaşar",
+      "title": "Diş Hekimi",
+      "specialty": "Kanal tedavisi, estetik ve restoratif diş hekimliği, çocuk diş tedavileri",
+      "photo": "rukiye",
+      "has_photo": true,
+      "meta_title": "Dt. Rukiye Şule Yaşar | Diş Hekimi Kayaşehir",
+      "meta_description": "Dt. Rukiye Şule Yaşar: kök kanal tedavileri, estetik dolgu ve kompozit lamina, çocuk diş tedavileri ve protetik tedavilerde Kayaşehir Ay Yıldız ADSP'de hizmet veriyor.",
+      "summary": "Kök kanal tedavileri, estetik ve restoratif uygulamalar, çocuk diş tedavileri ve protetik tedavilere odaklanır.",
+      "about": [
+        "Dt. Rukiye Şule Yaşar, 2021 yılında Bülent Ecevit Üniversitesi Diş Hekimliği Fakültesi'nden mezun olmuştur. Mesleki çalışmalarında kök kanal tedavileri, estetik ve restoratif diş hekimliği uygulamaları, çocuk diş tedavileri ve protetik tedavilere odaklanmaktadır.",
+        "Tedavi süreçlerinde hastalarının ihtiyaçlarını dikkate alarak ağız ve diş sağlığını, işlevselliği ve estetik beklentileri birlikte değerlendirmeyi önemser. Her hastanın ihtiyacının farklı olduğu bilinciyle tedavi seçeneklerini anlaşılır biçimde paylaşır, hasta konforuna ve tedavi sürecinin özenle yürütülmesine önem verir."
+      ],
+      "areas": [
+        "Kök kanal tedavileri",
+        "Estetik dolgular ve kompozit lamina uygulamaları",
+        "Süt ve daimi dişlerin tedavileri",
+        "Vital pulpa tedavileri",
+        "Yer tutucu uygulamaları",
+        "Zirkonyum ve porselen restorasyonlar",
+        "İmplant destekli protezler"
+      ],
+      "education": [
+        "Bülent Ecevit Üniversitesi Diş Hekimliği Fakültesi (2021)"
+      ],
+      "experience": [],
+      "certificates": [],
+      "memberships": [],
+      "languages": [
+        "Türkçe"
+      ]
+    },
+    {
+      "id": "vahide-ceyda-acar",
+      "slug": "dt-vahide-ceyda-acar-cocuk-dis-hekimi",
+      "name": "Dt. Vahide Ceyda Acar",
+      "title": "Uzman Çocuk Diş Hekimi (Pedodonti)",
+      "specialty": "Çocuk diş hekimliği, koruyucu ağız-diş sağlığı, dijital anestezi",
+      "photo": "vahide",
+      "has_photo": true,
+      "meta_title": "Dt. Vahide Ceyda Acar | Çocuk Diş Hekimi Kayaşehir",
+      "meta_description": "Dt. Vahide Ceyda Acar, uzman çocuk diş hekimi (pedodontist). Kayaşehir Ay Yıldız ADSP'de dijital anestezi, pedodontik kron, ICON ve SDF uygulamaları.",
+      "summary": "Yaklaşık 6 yıllık klinik deneyime sahip, Altınbaş Üniversitesi Pedodonti Doktora Programı mezunu çocuk diş hekimi.",
+      "about": [
+        "Çocuk diş hekimliği alanında yaklaşık 6 yıllık klinik deneyime sahip olan Dt. Vahide Ceyda Acar, çocukların ağız ve diş sağlığını korumaya ve tedavi süreçlerini onların ihtiyaçlarına uygun şekilde yürütmeye odaklanmaktadır.",
+        "Farklı özel kliniklerde ve fakülte kliniklerinde edindiği deneyimle rutin pedodontik uygulamaların yanı sıra dijital anestezi, pedodontik kron, ICON ve SDF uygulamalarında çalışmaktadır. Klinik ortamında tedavisi uygun olmayan çocuk hastaların genel anestezi altında tedavi süreçlerinde de görev alabilmektedir.",
+        "Çocuk hastalar ve aileleriyle kurduğu güçlü iletişim, etik yaklaşımı ve multidisipliner çalışma anlayışıyla hasta konforunu önemser."
+      ],
+      "areas": [
+        "Çocuk diş hekimliği ve koruyucu ağız-diş sağlığı",
+        "Dijital anestezi uygulamaları",
+        "Pedodontik kron uygulamaları",
+        "ICON ve SDF uygulamaları",
+        "Genel anestezi altında çocuk hastaların diş tedavileri"
+      ],
+      "education": [
+        "Altınbaş Üniversitesi – Pedodonti Doktora Programı (2019–2024)",
+        "İstanbul Medipol Üniversitesi – Diş Hekimliği Fakültesi (2015–2019)",
+        "İstanbul Yeni Yüzyıl Üniversitesi – İngilizce Hazırlık (2013–2015)"
+      ],
+      "experience": [],
+      "certificates": [
+        "2022 – 28. Uluslararası Türk Pedodonti Derneği Kongresi",
+        "2021 – NuSmile Esthetic Crowns in Pediatric Dentistry; NuSmile Pulp Therapy in Pediatric Dentistry",
+        "2020 – Kompozit Rezinlerle Ön Bölgede Estetik Çözümler (Vesta Akademi)",
+        "2019 – V. Genç EDAD Sempozyumu; İstanbul Üniversitesi Dental Summer Camp; Dental Fotoğrafçılık Kursu; İnley-Onley Restorasyonlar Kursu; Endodontide Döner Alet ve Mikroskop Kullanımı Kursu; Myobrace İleri Seviye Semineri",
+        "2017–2018 – TDB Uluslararası Diş Hekimliği Kongreleri; GREATIST Uluslararası Diş Hekimliği Kongresi; Uniglobal Öğrenci Sempozyumu"
+      ],
+      "memberships": [
+        "Türk Pedodonti Derneği",
+        "Estetik Diş Hekimliği Derneği (2018–2021)"
+      ],
+      "languages": [
+        "Türkçe",
+        "İngilizce"
+      ]
+    },
+    {
+      "id": "buse-gunaydin",
+      "slug": "dt-buse-gunaydin",
+      "name": "Dt. Buse Günaydın",
+      "title": "Diş Hekimi",
+      "specialty": "Ortodonti, restoratif diş tedavileri, kanal tedavisi",
+      "photo": "buse",
+      "has_photo": true,
+      "meta_title": "Dt. Buse Günaydın | Diş Hekimi Kayaşehir",
+      "meta_description": "Dt. Buse Günaydın: ortodonti, restoratif diş tedavileri, kanal tedavisi, diş taşı temizliği ve diş çekimi alanlarında Kayaşehir Ay Yıldız ADSP'de hizmet veriyor.",
+      "summary": "İstanbul Galata Üniversitesi mezunu; ortodonti, restoratif tedaviler ve endodonti alanlarında çalışır.",
+      "about": [
+        "Dt. Buse Günaydın, İstanbul Galata Üniversitesi Diş Hekimliği Fakültesi'nden mezun olmuştur. Mesleki bilgi ve klinik deneyimini sürekli geliştirmeyi hedefleyen, hasta memnuniyetini ve etik çalışma ilkelerini ön planda tutan bir diş hekimidir.",
+        "Üniversite eğitimi ve klinik stajları süresince restoratif diş tedavileri, endodonti, diş çekimi, periodontal uygulamalar ve ortodontik tedaviler alanlarında deneyim kazanmış; özel polikliniklerdeki çalışmalarıyla mesleki tecrübesini geliştirmiş ve ortodonti alanındaki çalışmalarını sürdürmektedir.",
+        "Hasta iletişimine önem veren Dt. Buse Günaydın, her hastanın ihtiyaçlarını dikkate alarak ağız ve diş sağlığının korunmasına ve geliştirilmesine katkı sağlamayı amaçlamaktadır."
+      ],
+      "areas": [
+        "Ortodonti",
+        "Restoratif diş tedavileri",
+        "Kanal tedavisi (endodonti)",
+        "Diş taşı temizliği ve periodontal uygulamalar",
+        "Diş çekimi",
+        "Ağız ve diş sağlığının korunması"
+      ],
+      "education": [
+        "İstanbul Galata Üniversitesi – Diş Hekimliği (2020–2025)"
+      ],
+      "experience": [
+        "Özel ağız ve diş sağlığı polikliniklerinde diş hekimliği (2025–)",
+        "İstanbul Galata Üniversitesi – Klinik Diş Hekimliği Stajı (2023–2025)"
+      ],
+      "certificates": [
+        "Temel İlk Yardım Sertifikası",
+        "Sterilizasyon ve Enfeksiyon Kontrolü Sertifikası",
+        "İDO 3. İstanbul Buluşması"
+      ],
+      "memberships": [],
+      "languages": [
+        "Türkçe",
+        "İngilizce (B2)"
+      ]
+    },
+    {
+      "id": "emirhan-yuceturk",
+      "slug": "dt-emirhan-yuceturk",
+      "name": "Dt. Emirhan Yücetürk",
+      "title": "Diş Hekimi",
+      "specialty": "Protetik diş tedavisi, estetik restoratif tedaviler, kanal tedavisi",
+      "photo": "emirhan",
+      "has_photo": true,
+      "meta_title": "Dt. Emirhan Yücetürk | Diş Hekimi Kayaşehir",
+      "meta_description": "Dt. Emirhan Yücetürk: zirkonyum ve porselen protezler, implant üstü protez, kompozit lamina ve kanal tedavisi alanlarında Kayaşehir Ay Yıldız ADSP'de hizmet veriyor.",
+      "summary": "3 yılı aşan klinik deneyimiyle protez, estetik restoratif tedaviler ve endodonti alanlarında çalışır.",
+      "about": [
+        "Dt. Emirhan Yücetürk, 2024 yılında Afyonkarahisar Sağlık Bilimleri Üniversitesi Diş Hekimliği Fakültesi'nden mezun olmuştur. 3 yılı aşan klinik ve saha tecrübesi süresince özel diş sağlığı polikliniklerinde ve askeri sağlık bünyesinde farklı yaş grubundaki hastaların teşhis, tedavi ve takip süreçlerini yürütmüştür.",
+        "Hastalarıyla şeffaf ve güven odaklı bir iletişim kurmayı ilke edinen Yücetürk, klinik pratiğinde güncel teknolojiyi ve modern diş hekimliği protokollerini uygulamaktadır."
+      ],
+      "areas": [
+        "Protetik diş tedavisi: zirkonyum ve porselen sabit protezler, total ve parsiyel hareketli protezler",
+        "İmplant üstü protez rehabilitasyonu",
+        "Estetik restoratif diş tedavisi: kompozit lamina ve estetik dolgular",
+        "Endodontik tedaviler (kanal tedavisi)"
+      ],
+      "education": [
+        "Afyonkarahisar Sağlık Bilimleri Üniversitesi – Diş Hekimliği Fakültesi (2024)"
+      ],
+      "experience": [
+        "Özel ağız ve diş sağlığı poliklinikleri – Diş hekimi",
+        "Askeri sağlık kuruluşu – Diş hekimi"
+      ],
+      "certificates": [
+        "İmplant Üstü Protez Tedavilerinde Güncel Yaklaşımlar Semineri",
+        "Estetik Restoratif Diş Hekimliği ve Gülüş Tasarımı Sertifika Programı",
+        "Sabit ve Hareketli Protez Rehabilitasyon Teknikleri Eğitimi",
+        "Türk Dişhekimleri Birliği (TDB) Ulusal Kongre ve Seminer Katılımları"
+      ],
+      "memberships": [],
+      "languages": [
+        "Türkçe"
+      ]
+    }
+  ],
+  "faq": {
+    "meta_title": "Diş Sağlığı Soru-Cevap | Diş Eti Kanaması, Dolgu, İmplant – Kayaşehir",
+    "meta_description": "Diş eti kanaması, dolgu, implant, kanal tedavisi, diş çekimi, çocuk dişleri ve ortodonti hakkında Kayaşehir Ay Yıldız ADSP hekimlerinin yanıtladığı sık sorulan sorular.",
+    "title": "Sık Sorulan Sorular",
+    "intro": "Hastalarımızın en çok merak ettiği soruları hekimlerimiz kısa ve net yanıtladı. Sorunuzun yanıtını bulamazsanız WhatsApp'tan yazın; aynı gün dönüş yapıyoruz.",
+    "categories": [
+      {
+        "name": "Genel ve randevu",
+        "items": [
+          {
+            "q": "Randevu nasıl alabilirim?",
+            "a": "0212 931 99 32 veya 0530 391 99 32 numaralarını arayabilir ya da WhatsApp'tan yazabilirsiniz. Mesaj saatleri dışında gelen taleplere ertesi iş günü dönüş yapılır."
+          },
+          {
+            "q": "Polikliniğiniz nerede?",
+            "a": "Başakşehir Kayaşehir'de, Kayaşehir Bulvarı üzerinde Seyranşehir Sitesi D3 Blok No 15C adresindeyiz. Kayaşehir Merkez metro durağına yürüme mesafesindedir."
+          },
+          {
+            "q": "Hangi dillerde hizmet veriyorsunuz?",
+            "a": "Türkçe, İngilizce ve Arapça. Web sitemiz de üç dilde hizmet vermektedir."
+          },
+          {
+            "q": "Ödeme seçenekleri nelerdir?",
+            "a": "Nakit ve kredi kartı kabul edilir; uzun süreli tedavilerde taksit seçenekleri muayenede paylaşılır. Özel sağlık sigortanızın diş kapsamını sorgulamanıza yardımcı oluruz."
+          },
+          {
+            "q": "Ne sıklıkla diş hekimine gitmeliyim?",
+            "a": "Şikâyetiniz olmasa da 6 ayda bir kontrol ve diş taşı temizliği önerilir. Erken tespit edilen çürük küçük bir dolgu ile çözülürken, geciken çürük kanal tedavisi veya çekim gerektirir."
+          }
+        ]
+      },
+      {
+        "name": "Diş eti kanaması ve diş taşı",
+        "items": [
+          {
+            "q": "Diş eti kanaması neden olur, tehlikeli mi?",
+            "a": "En sık nedeni plak ve diş taşının yol açtığı diş eti iltihabıdır (gingivitis). Erken dönemde temizlik ve iyi fırçalama ile 1–2 haftada geriler. İhmal edilirse kemik kaybına ve diş kaybına (periodontitis) ilerler."
+          },
+          {
+            "q": "Dişim kanıyorsa fırçalamayı bırakmalı mıyım?",
+            "a": "Hayır, tam tersi. Kanayan bölgeyi yumuşak fırçayla daha özenli temizlemek ve diş ipi kullanmak iltihabı azaltır. Kanama 2 haftada geçmezse muayene olun."
+          },
+          {
+            "q": "Diş taşı temizliği dişleri aşındırır mı?",
+            "a": "Hayır. Ultrasonik temizlik yalnızca taşı uzaklaştırır, mineye zarar vermez. Sonrasında dişlerin arasında hissedilen boşluklar zaten taşın kapladığı yerlerdir."
+          },
+          {
+            "q": "Diş taşı temizliği ne sıklıkla yapılmalı?",
+            "a": "Çoğu kişi için 6 ayda bir; diş eti hastalığı öyküsü, sigara veya diyabet varsa 3–4 ayda bir."
+          },
+          {
+            "q": "Ağız kokusunun nedeni nedir?",
+            "a": "Çoğunlukla diş taşı, diş eti iltihabı, çürükler ve dil üzerindeki bakteri plağıdır. Temizlik ve dil fırçalama ile büyük ölçüde geçer. Devam ederse mide veya sinüs kaynaklı nedenler araştırılır."
+          },
+          {
+            "q": "Diş eti çekilmesi geri gelir mi?",
+            "a": "Çekilen diş eti kendiliğinden geri gelmez; ancak ilerlemesi durdurulabilir ve uygun vakalarda diş eti grefti ile kapatılabilir."
+          }
+        ]
+      },
+      {
+        "name": "Dolgu",
+        "items": [
+          {
+            "q": "Beyaz dolgu ne kadar dayanır?",
+            "a": "Düzenli bakımla ortalama 7–10 yıl. Dolgunun büyüklüğü, konumu ve diş sıkma alışkanlığı ömrü etkiler."
+          },
+          {
+            "q": "Beyaz dolgu mu siyah (amalgam) dolgu mu?",
+            "a": "Kompozit beyaz dolgular estetik olup dişe bağlanarak dişi güçlendirir ve daha az madde kaldırılmasını gerektirir. Günümüzde tercih edilen seçenektir."
+          },
+          {
+            "q": "Dolgu sonrası hassasiyet normal mi?",
+            "a": "Soğuk-sıcak hassasiyeti birkaç gün ile birkaç hafta sürebilir. Isırırken ağrı varsa dolgu yüksek olabilir; kısa bir düzeltme ile geçer."
+          },
+          {
+            "q": "Dolgu yapılırken ağrı olur mu?",
+            "a": "Derin çürüklerde lokal anestezi uygulanır; işlem ağrısızdır. Yüzeysel çürüklerde anesteziye gerek bile kalmayabilir."
+          },
+          {
+            "q": "Hamilelikte dolgu yaptırılır mı?",
+            "a": "Evet, özellikle 2. trimesterde güvenle yapılır. Ağrılı ve enfekte dişin bekletilmesi anne ve bebek için daha risklidir."
+          },
+          {
+            "q": "Eski dolgum değiştirilmeli mi?",
+            "a": "Kenarında çürük, kırık veya sızıntı varsa evet. Sağlam ve sızdırmayan dolgu yalnızca renk için değiştirilmek zorunda değildir."
+          }
+        ]
+      },
+      {
+        "name": "İmplant",
+        "items": [
+          {
+            "q": "İmplant tedavisi ağrılı mıdır?",
+            "a": "Hayır. Lokal anestezi altında yapılır; işlem sırasında ağrı hissedilmez. Sonrasında 1–2 gün hafif hassasiyet olabilir."
+          },
+          {
+            "q": "İmplant ne kadar sürer?",
+            "a": "Yerleştirme 20–40 dakika sürer. Kemikle kaynaşma için 2–3 ay beklenir, ardından kalıcı diş takılır. Uygun vakalarda aynı gün geçici diş yapılabilir."
+          },
+          {
+            "q": "Kemiğim yetersizse implant yapılabilir mi?",
+            "a": "Çoğu zaman evet. Kemik tozu veya sinüs lifting ile kemik hacmi artırılır. Muayenede röntgenle değerlendirilir."
+          },
+          {
+            "q": "İmplantın ömrü ne kadardır?",
+            "a": "İyi hijyen ve düzenli kontrollerle ömür boyu kullanılabilir. Üzerindeki kron 10–15 yılda yenilenebilir."
+          },
+          {
+            "q": "İmplant kimlere yapılmaz?",
+            "a": "Kontrolsüz diyabet, kemik gelişimi tamamlanmamış gençler (18 yaş altı), ağır osteoporoz ilacı kullananlar ve yoğun sigara içenlerde risk değerlendirilir; çoğu durumda uygun koşullar sağlandığında yapılabilir."
+          },
+          {
+            "q": "İmplant mı köprü mü?",
+            "a": "İmplant komşu dişlerin kesilmesini gerektirmez ve kemiği korur; uzun vadede daha ekonomiktir. Komşu dişlerde zaten kron ihtiyacı varsa köprü de iyi bir seçenektir."
+          }
+        ]
+      },
+      {
+        "name": "Kanal tedavisi ve diş ağrısı",
+        "items": [
+          {
+            "q": "Kanal tedavisi neden gereklidir?",
+            "a": "Çürük veya travma dişin sinirine ulaştığında iltihap başlar; bu doku temizlenmezse apse ve kemik kaybı gelişir. Kanal tedavisi dişi çekmeden kurtarır."
+          },
+          {
+            "q": "Kanal tedavisi kaç seans sürer?",
+            "a": "Çoğu diş tek seansta (45–90 dakika) tamamlanır. Apse varsa 2–3 seans gerekebilir."
+          },
+          {
+            "q": "Kanal tedavisi sonrası kaplama gerekir mi?",
+            "a": "Arka dişlerde evet; kanal tedavili diş daha kırılgandır. Ön dişlerde dolgu çoğu zaman yeterlidir."
+          },
+          {
+            "q": "Diş apsesi nasıl oluşur?",
+            "a": "Tedavi edilmeyen derin çürük veya diş eti hastalığı sonucu bakterilerin kök ucunda veya diş etinde birikmesiyle oluşur. Şişlik, zonklayan ağrı ve ateş yapabilir; acil tedavi gerektirir."
+          },
+          {
+            "q": "Gece gelen diş ağrısı ne anlama gelir?",
+            "a": "Yatınca artan, zonklayan ağrı çoğunlukla sinirin iltihaplandığını gösterir ve kanal tedavisi gerektirir. Ağrı kesici geçici çözümdür; en kısa sürede muayene olun."
+          },
+          {
+            "q": "Kanal tedavisi yapılan diş ömür boyu dayanır mı?",
+            "a": "Doğru restore edilip bakıldığında evet; birçok kanal tedavili diş onlarca yıl kullanılır."
+          }
+        ]
+      },
+      {
+        "name": "Diş çekimi ve 20 yaş dişi",
+        "items": [
+          {
+            "q": "Gömülü diş nedir, çekimi gerekli midir?",
+            "a": "Çene içinde sürememiş dişe gömülü diş denir; en sık 20 yaş dişleridir. Ağrı, komşu dişte çürük, kist veya ortodontik sorun yaratıyorsa çekilir; sorun yaratmayan diş izlenebilir."
+          },
+          {
+            "q": "Dişimi çektirmesem, sadece antibiyotik kullansam olmaz mı?",
+            "a": "Antibiyotik enfeksiyonu geçici olarak baskılar; kaynak tedavi edilmezse apse tekrarlar. Antibiyotik gerektiğinde tedaviye destek olarak verilir."
+          },
+          {
+            "q": "Çekim sonrası nelere dikkat etmeliyim?",
+            "a": "Tamponu 30–45 dakika ısırın, ilk gün tükürmeyin, çalkalamayın, sigara ve pipet kullanmayın. Şişlik için dışarıdan soğuk uygulayın."
+          },
+          {
+            "q": "Çekim sonrası ağrı ne kadar sürer?",
+            "a": "Basit çekimde 1–2 gün, gömülü diş operasyonunda 3–5 gün. Ağrının 3. günden sonra artması kuru soket (alveolit) belirtisi olabilir; kliniğe başvurun."
+          }
+        ]
+      },
+      {
+        "name": "Çocuk dişleri",
+        "items": [
+          {
+            "q": "Çocuğumu ilk kez kaç yaşında diş hekimine götürmeliyim?",
+            "a": "İlk süt dişi çıktığında, en geç 1 yaşında. Erken tanışma hem çürüğü hem de diş hekimi korkusunu önler."
+          },
+          {
+            "q": "Süt dişi çürüğü tedavi edilmeli mi?",
+            "a": "Evet. Çürük süt dişi ağrı, apse ve altındaki daimi dişte hasara yol açar; erken kaybı çapraşıklığa neden olur."
+          },
+          {
+            "q": "Biberon çürüğü nedir?",
+            "a": "Gece biberonla süt veya meyve suyu alan bebeklerde ön dişlerde hızla gelişen çürüktür. Gece yalnızca su verilmesi ve dişlerin silinmesi ile önlenir."
+          },
+          {
+            "q": "Çocuklarda flor uygulaması güvenli mi?",
+            "a": "Evet. Profesyonel flor verniği dünya çapında önerilen, güvenli ve etkili bir çürük önleme yöntemidir."
+          },
+          {
+            "q": "Fissür örtücü nedir?",
+            "a": "Azı dişlerinin derin oluklarına uygulanan koruyucu bir tabakadır; çürük riskini büyük ölçüde azaltır. 6 ve 12 yaş dişleri sürdüğünde uygulanır."
+          },
+          {
+            "q": "Çocuğumun dişleri çapraşık, ne zaman ortodontiste gitmeli?",
+            "a": "İlk ortodontik kontrol 7 yaş civarında önerilir. Erken dönemde çene yönlendirme ile ileride tel ihtiyacı azaltılabilir."
+          }
+        ]
+      },
+      {
+        "name": "Estetik, beyazlatma ve ortodonti",
+        "items": [
+          {
+            "q": "Diş beyazlatma dişlere zarar verir mi?",
+            "a": "Hekim kontrolünde yapıldığında mineye zarar vermez. Geçici hassasiyet 1–2 günde geçer. Etkisi 1–3 yıl sürer."
+          },
+          {
+            "q": "Lamine mi zirkonyum mu?",
+            "a": "Dişte büyük madde kaybı yoksa lamine daha az aşındırma gerektirir ve daha doğal görünür. Büyük dolgulu veya kanal tedavili dişlerde zirkonyum tercih edilir."
+          },
+          {
+            "q": "Şeffaf plak mı diş teli mi?",
+            "a": "Şeffaf plak görünmez ve konforludur; hafif-orta vakalarda idealdir. Ciddi kapanış bozukluklarında sabit braketler daha güçlü sonuç verir."
+          },
+          {
+            "q": "Ortodonti için yaş sınırı var mı?",
+            "a": "Hayır. Diş ve diş eti sağlıklı olduğu sürece her yaşta yapılabilir."
+          },
+          {
+            "q": "Diş sıkma (bruksizm) için ne yapılabilir?",
+            "a": "Gece plağı dişleri aşınmadan korur; gerektiğinde çene kası gevşetici uygulamalar ve kapanış düzenlemesi yapılır."
+          },
+          {
+            "q": "Çene eklemi ağrısı diş hekimine mi gidilir?",
+            "a": "Evet. Çene ekleminde ses, ağrı veya kilitlenme diş sıkma, kapanış bozukluğu veya eksik dişlerden kaynaklanabilir; muayene ile nedeni belirlenir."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "meta_title": "İletişim ve Randevu | Ay Yıldız ADSP Kayaşehir Başakşehir",
+    "meta_description": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği adres, telefon, WhatsApp ve çalışma saatleri. Kayaşehir Bulvarı Seyranşehir Sitesi D3 Blok, Başakşehir. 0212 931 99 32.",
+    "title": "İletişim ve Randevu",
+    "intro": "Muayene randevusu için arayın veya WhatsApp'tan yazın. Mesajlara çalışma saatleri içinde en geç 1 saat içinde dönüş yapıyoruz.",
+    "directions_title": "Nasıl gelinir?",
+    "directions": [
+      "Metro: M3 hattı Kayaşehir Merkez durağından Kayaşehir Bulvarı boyunca yaklaşık 5 dakika yürüyüş.",
+      "Otobüs: Kayaşehir Bulvarı üzerindeki Seyranşehir duraklarından inildikten sonra site girişi.",
+      "Araç: Seyranşehir Sitesi önünde ve çevresinde otopark imkânı vardır."
+    ],
+    "form_note": "Form yerine WhatsApp'ı tercih ediyoruz: sorunuzu yazın, uygun saatleri hemen paylaşalım.",
+    "exterior_alt": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği dış cephe, Kayaşehir Bulvarı"
+  }
+}

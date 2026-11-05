@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(page.breadcrumb) }}
+    <div class="page-head-row">
+      <span class="page-icon">{{ m.icon(t.icon, 48) }}</span>
+      <div>
+        <h1>{{ t.h1 }}</h1>
+        <p class="lead">{{ t.intro }}</p>
+      </div>
+    </div>
+    <div class="page-head-actions">
+      <a class="btn btn-primary" href="{{ wa_link }}" target="_blank" rel="noopener">{{ m.icon('wa', 18) }} {{ c.common.book_free_exam }}</a>
+      <a class="btn btn-outline" href="tel:{{ site.phone_landline_tel }}">{{ m.icon('phone', 16) }} {{ site.phone_landline }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container article-split">
+    <article class="article">
+      {%- for s in t.sections %}
+      <section class="article-block">
+        <h2>{{ s.title }}</h2>
+        {%- if s.text %}<p>{{ s.text }}</p>{% endif %}
+        {%- if s["items"] %}
+        <ul class="check-list">
+          {%- for it in s["items"] %}
+          <li>{{ m.icon('check', 18) }}<span>{{ it }}</span></li>
+          {%- endfor %}
+        </ul>
+        {%- endif %}
+      </section>
+      {%- endfor %}
+
+      <section class="article-block">
+        <h2>{{ c.common.faq_in_page }}</h2>
+        {{ m.faq_list(t.faq, open_first=true) }}
+      </section>
+    </article>
+
+    <aside class="sidebar">
+      <div class="side-card side-card-dark">
+        <h3>{{ c.common.free_exam }}</h3>
+        <a class="btn btn-primary btn-block" href="{{ wa_link }}" target="_blank" rel="noopener">{{ c.common.write_whatsapp }}</a>
+        <a class="btn btn-outline-light btn-block" href="tel:{{ site.phone_landline_tel }}">{{ site.phone_landline }}</a>
+      </div>
+      <div class="side-card">
+        <h3>{{ c.common.related_treatments }}</h3>
+        <ul class="side-links">
+          {%- for rid in t.related %}
+          {%- set r = tmap[rid] %}
+          <li><a href="{{ c.paths.treatments }}{{ r.slug }}/">{{ m.icon(r.icon, 22) }}<span>{{ r.name }}</span></a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+      <div class="side-card">
+        <h3>{{ c.nav.treatments }}</h3>
+        <ul class="side-links side-links-plain">
+          {%- for r in c.treatments %}
+          <li><a href="{{ c.paths.treatments }}{{ r.slug }}/"{% if r.id == t.id %} aria-current="page"{% endif %}>{{ r.name }}</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </aside>
+  </div>
+</section>
+{% endblock %}

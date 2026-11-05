@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="page-head page-head-compact">
+  <div class="container">
+    {{ m.breadcrumb(page.breadcrumb) }}
+  </div>
+</section>
+<section class="section">
+  <div class="container dentist-split">
+    <div class="dentist-side">
+      <div class="dentist-portrait">{{ m.dentist_photo(d, '(max-width: 900px) 90vw, 380px') }}</div>
+      <div class="side-card side-card-dark">
+        <h3>{{ c.common.book_with_doctor }}</h3>
+        <a class="btn btn-primary btn-block" href="{{ wa_link_doctor }}" target="_blank" rel="noopener">{{ c.common.write_whatsapp }}</a>
+        <a class="btn btn-outline-light btn-block" href="tel:{{ site.phone_landline_tel }}">{{ site.phone_landline }}</a>
+      </div>
+    </div>
+    <article class="article dentist-article">
+      <h1>{{ d.name }}</h1>
+      <p class="dentist-title">{{ d.title }}</p>
+      <p class="lead">{{ d.summary }}</p>
+      {%- for p in d.about %}
+      <p>{{ p }}</p>
+      {%- endfor %}
+
+      {%- if d.areas %}
+      <section class="article-block">
+        <h2>{{ c.common.areas_label }}</h2>
+        <ul class="check-list">
+          {%- for it in d.areas %}<li>{{ m.icon('check', 18) }}<span>{{ it }}</span></li>{% endfor %}
+        </ul>
+      </section>
+      {%- endif %}
+      {%- if d.education %}
+      <section class="article-block">
+        <h2>{{ c.common.education_label }}</h2>
+        <ul class="plain-list">{% for it in d.education %}<li>{{ it }}</li>{% endfor %}</ul>
+      </section>
+      {%- endif %}
+      {%- if d.experience %}
+      <section class="article-block">
+        <h2>{{ c.common.experience_label }}</h2>
+        <ul class="plain-list">{% for it in d.experience %}<li>{{ it }}</li>{% endfor %}</ul>
+      </section>
+      {%- endif %}
+      {%- if d.certificates %}
+      <section class="article-block">
+        <h2>{{ c.common.certificates_label }}</h2>
+        <ul class="plain-list">{% for it in d.certificates %}<li>{{ it }}</li>{% endfor %}</ul>
+      </section>
+      {%- endif %}
+      {%- if d.memberships %}
+      <section class="article-block">
+        <h2>{{ c.common.memberships_label }}</h2>
+        <ul class="plain-list">{% for it in d.memberships %}<li>{{ it }}</li>{% endfor %}</ul>
+      </section>
+      {%- endif %}
+      {%- if d.languages %}
+      <section class="article-block">
+        <h2>{{ c.common.languages_spoken_label }}</h2>
+        <p>{{ d.languages | join(' · ') }}</p>
+      </section>
+      {%- endif %}
+    </article>
+  </div>
+</section>
+{% endblock %}

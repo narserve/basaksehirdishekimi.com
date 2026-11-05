@@ -1,0 +1,1348 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "locale": "en_US",
+  "lang_name": "English",
+  "site": {
+    "name": "Ay Yıldız Oral and Dental Health Clinic",
+    "short_name": "Ay Yıldız Dental Clinic",
+    "tagline": "Kayaşehir · Başakşehir",
+    "slogan": "Your smile is in safe hands.",
+    "description": "Dental implants, smile design, orthodontics, paediatric dentistry and all dental treatments in Kayaşehir, Başakşehir, Istanbul. Service in Turkish, English and Arabic."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "treatments": "Treatments",
+    "dentists": "Our Dentists",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "appointment": "Book an Appointment",
+    "call": "Call",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language"
+  },
+  "paths": {
+    "home": "/en/",
+    "about": "/en/about/",
+    "treatments": "/en/treatments/",
+    "dentists": "/en/dentists/",
+    "faq": "/en/faq/",
+    "contact": "/en/contact/"
+  },
+  "common": {
+    "free_exam": "Appointment",
+    "book_free_exam": "Book an Appointment",
+    "write_whatsapp": "Message Us on WhatsApp",
+    "whatsapp_label": "Message us on WhatsApp",
+    "whatsapp_message": "Hello, I would like to book an appointment at Ay Yıldız Oral and Dental Health Clinic.",
+    "call_now": "Call Now",
+    "read_more": "More information",
+    "all_treatments": "All treatments",
+    "all_dentists": "All dentists",
+    "all_faq": "See all questions",
+    "address_label": "Address",
+    "phone_label": "Phone",
+    "email_label": "Email",
+    "hours_label": "Opening Hours",
+    "hours_text": "Monday – Friday 09:00 – 21:00 · Saturday 09:00 – 19:00 · Sunday closed",
+    "languages_label": "Languages spoken",
+    "languages_text": "Türkçe · English · العربية",
+    "follow_us": "Follow us",
+    "rights": "All rights reserved.",
+    "founder_label": "Clinic Director",
+    "map_title": "Location of Ay Yıldız Oral and Dental Health Clinic",
+    "get_directions": "Get directions",
+    "breadcrumb_home": "Home",
+    "related_treatments": "Related treatments",
+    "faq_in_page": "Frequently asked questions",
+    "areas_label": "Areas of interest and practice",
+    "education_label": "Education",
+    "experience_label": "Professional experience",
+    "certificates_label": "Courses, congresses and certificates",
+    "memberships_label": "Professional memberships",
+    "languages_spoken_label": "Languages",
+    "book_with_doctor": "Book with this dentist",
+    "suitable_label": "Who is it suitable for?",
+    "steps_label": "How does the treatment proceed?",
+    "benefits_label": "Benefits",
+    "aftercare_label": "Aftercare",
+    "cta_title": "",
+    "cta_text": "",
+    "seo_footer_title": "Dental Clinic in Başakşehir, Kayaşehir, Istanbul",
+    "seo_footer_text": "Ay Yıldız Oral and Dental Health Clinic is a dental clinic in the Seyranşehir Site in Kayaşehir, Başakşehir, Istanbul. We offer dental implants, orthodontics, smile design, root canal treatment, fillings, gum treatment and paediatric dentistry to patients from Kayaşehir, Kayabaşı, Başakşehir, Bahçeşehir, Şahintepe and Altınşehir, as well as international patients visiting Istanbul.",
+    "last_updated": "Last updated",
+    "skip_to_content": "Skip to content",
+    "page_not_found": "Page not found",
+    "page_not_found_text": "The page you are looking for may have been moved or removed.",
+    "back_home": "Back to home page"
+  },
+  "home": {
+    "meta_title": "Dentist in Kayaşehir, Başakşehir, Istanbul | Ay Yıldız Dental",
+    "meta_description": "Looking for a dentist in Kayaşehir, Başakşehir, Istanbul? Implants, orthodontics, smile design, paediatric dentistry. +90 212 931 99 32.",
+    "hero": {
+      "kicker": "Your dental clinic in Kayaşehir",
+      "title": "Your smile is in safe hands.",
+      "subtitle": "Personalised, comfortable treatment in implants, smile design, orthodontics and paediatric dentistry in Kayaşehir, Başakşehir, Istanbul.",
+      "bullets": [
+        "8 specialist dentists",
+        "Specialist paediatric dentist",
+        "Türkçe · English · العربية"
+      ],
+      "image_alt": "Ay Yıldız Dental Clinic reception area"
+    },
+    "trust": [
+      {
+        "big": "Kids",
+        "small": "Fear-free visits with a specialist paediatric dentist"
+      },
+      {
+        "big": "8 Dentists",
+        "small": "Prosthodontics, orthodontics, paediatric dentistry, endodontics"
+      },
+      {
+        "big": "Kayaşehir",
+        "small": "Seyranşehir Site, close to the metro"
+      },
+      {
+        "big": "Family Dentist",
+        "small": "Personalised care, not a production line"
+      }
+    ],
+    "treatments_section": {
+      "kicker": "Our Treatments",
+      "title": "Every branch of modern dentistry",
+      "featured": [
+        "implant",
+        "gulus-tasarimi",
+        "ortodonti",
+        "cocuk-dis-hekimligi",
+        "kanal-tedavisi",
+        "dolgu",
+        "dis-eti-tedavisi",
+        "lamine"
+      ]
+    },
+    "why": {
+      "kicker": "Why Ay Yıldız?",
+      "title": "Personalised care with a family feel",
+      "items": [
+        {
+          "title": "Minimal procedures, maximum comfort",
+          "text": "We never carry out unnecessary procedures. Every treatment plan is prepared around your needs and explained clearly."
+        },
+        {
+          "title": "A solution for dental anxiety",
+          "text": "Digital anaesthesia, a calm environment and dentists who never rush. A special approach for anxious adults and children."
+        },
+        {
+          "title": "Every specialty under one roof",
+          "text": "Prosthodontics, orthodontics, root canal treatment, paediatric dentistry and aesthetic dentistry in one place."
+        },
+        {
+          "title": "Up-to-date technology",
+          "text": "Modern dentistry with digital X-rays, current materials and a team that keeps training continuously."
+        }
+      ]
+    },
+    "dentists_section": {
+      "kicker": "Our Dentists",
+      "title": "A team that gets to know you",
+      "text": "Each one trained in their own field and committed to listening to their patients."
+    },
+    "child_section": {
+      "kicker": "Paediatric dentistry",
+      "title": "Let your child's first dental visit end with a smile",
+      "text": "Our specialist paediatric dentist, Dr. Vahide Ceyda Acar, provides digital anaesthesia, paediatric crowns, ICON and SDF treatments in an environment where children feel unafraid.",
+      "cta": "Paediatric dentistry"
+    },
+    "faq_section": {
+      "kicker": "FAQ",
+      "title": "Your questions answered",
+      "text": "Our dentists' answers on bleeding gums, fillings, implants, root canal treatment and children's teeth.",
+      "featured": [
+        "Why do gums bleed, and is it dangerous?",
+        "Is dental implant treatment painful?",
+        "How long do white fillings last?",
+        "At what age should I first take my child to the dentist?",
+        "Do I need a crown after root canal treatment?"
+      ]
+    },
+    "location": {
+      "kicker": "Location",
+      "title": "In Kayaşehir, at the Seyranşehir Site",
+      "text": "We are on Kayaşehir Boulevard, within walking distance of the Kayaşehir Merkez metro station. Parking is available within the site."
+    },
+    "gallery": {
+      "kicker": "Our clinic",
+      "title": "A modern, spacious and sterile environment",
+      "photos": [
+        {
+          "file": "klinik-resepsiyon",
+          "alt": "Ay Yıldız Dental Clinic reception"
+        },
+        {
+          "file": "klinik-bekleme",
+          "alt": "Ay Yıldız Dental Clinic entrance and sign"
+        },
+        {
+          "file": "klinik-tedavi-odasi",
+          "alt": "Treatment room"
+        },
+        {
+          "file": "klinik-tedavi",
+          "alt": "Our dentist during a treatment"
+        }
+      ]
+    }
+  },
+  "about": {
+    "meta_title": "About Us | Ay Yıldız Dental Clinic Kayaşehir, Istanbul",
+    "meta_description": "Ay Yıldız Oral and Dental Health Clinic in Kayaşehir, Istanbul aims to be your family dentist: personalised care, a calm approach to dental anxiety, modern technology.",
+    "title": "About Us",
+    "intro": "At our clinic in Kayaşehir, Istanbul, our aim is to provide high-quality healthcare and a calm, well-equipped environment that frees our patients from the fear of the dentist.",
+    "paragraphs": [
+      "At our clinic we follow the philosophy of “maximum patient comfort with minimum procedures”. Unlike busy clinics that work like a production line, we offer personalised treatment with an eye for aesthetics. Our goal is to be your family's dentist.",
+      "We believe that learning should continue throughout life; we follow current knowledge and technology and apply it in our patients' treatments. We provide care in every branch of modern dentistry, particularly aesthetic dentistry, implantology, orthodontics and paediatric dentistry.",
+      "The staff who assist our dentists also receive regular training in their fields and keep up with developments. Sterilisation and infection control is the first rule we never compromise on in our clinic."
+    ],
+    "values_title": "Our Values",
+    "values": [
+      {
+        "title": "An honest treatment plan",
+        "text": "We do not recommend procedures you do not need. We explain your options, how long they take and what they cost, openly."
+      },
+      {
+        "title": "Patient comfort",
+        "text": "Pain-free, fear-free treatment with digital anaesthesia and a calm environment."
+      },
+      {
+        "title": "Continuous training",
+        "text": "Our dentists stay up to date through congresses, courses and certificate programmes."
+      },
+      {
+        "title": "Hygiene",
+        "text": "A sterile set and single-use materials for every patient, with regular sterilisation checks."
+      }
+    ],
+    "team_title": "Our Team"
+  },
+  "treatments_index": {
+    "meta_title": "Dental Treatments | Kayaşehir, Başakşehir, Istanbul Dentist",
+    "meta_description": "Dental treatments at Ay Yıldız Dental Clinic, Kayaşehir, Istanbul: implants, smile design, veneers, orthodontics, paediatric dentistry, root canals, fillings, gum care, whitening.",
+    "title": "Our Treatments",
+    "intro": "At our clinic in Kayaşehir, Başakşehir, we provide every branch of modern dentistry. Every treatment begins with a check-up and a personalised plan."
+  },
+  "treatments": [
+    {
+      "id": "implant",
+      "slug": "dental-implants",
+      "icon": "implant",
+      "name": "Dental Implants",
+      "short": "The permanent solution closest to a natural tooth for missing teeth. Single, multiple and implant-supported prostheses.",
+      "meta_title": "Dental Implants in Kayaşehir, Istanbul | Başakşehir Dentist",
+      "meta_description": "Dental implants in Kayaşehir, Başakşehir: who is suitable, how long it takes, is it painful? Call Ay Yıldız Dental Clinic for a implant consultation.",
+      "h1": "Dental Implants in Kayaşehir, Istanbul",
+      "intro": "A dental implant is a titanium screw placed in the jawbone to replace a lost tooth, imitating the root of a natural tooth. A porcelain or zirconia crown on top gives the look and biting strength closest to a natural tooth. Because neighbouring teeth are left untouched, it is today the best option for a missing tooth.",
+      "sections": [
+        {
+          "title": "Who can have a dental implant?",
+          "items": [
+            "Adults who are missing one or more teeth",
+            "Patients with no teeth who are unhappy with removable dentures (implant-supported fixed prosthesis)",
+            "Patients with sufficient jawbone, or whose bone can be built up to a sufficient level",
+            "Patients whose gum health is under control"
+          ]
+        },
+        {
+          "title": "How does the treatment proceed?",
+          "items": [
+            "Consultation and X-ray assessment; bone volume and general health are examined.",
+            "The implant is placed in the jawbone under local anaesthesia. The procedure takes 20–40 minutes and is no more painful than a tooth extraction.",
+            "A 2–3 month period of bonding with the bone (osseointegration). A temporary tooth can be worn during this time.",
+            "An impression is taken and the permanent porcelain or zirconia crown is fitted on the implant."
+          ]
+        },
+        {
+          "title": "Benefits of implants",
+          "items": [
+            "Neighbouring healthy teeth are not cut down.",
+            "Chewing strength and speech come closest to those of natural teeth.",
+            "Prevents the jawbone from shrinking.",
+            "Can last a lifetime with regular care."
+          ]
+        },
+        {
+          "title": "Aftercare for implants",
+          "text": "Cold compresses and soft food are recommended on the first day. Smoking delays healing. Brushing twice a day, using interdental brushes and having a check-up every 6 months are the most important factors in how long your implant lasts."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is dental implant treatment painful?",
+          "a": "No. Implants are placed under local anaesthesia, so you feel no pain during the procedure. There may be mild tenderness for 1–2 days afterwards, which passes easily with a painkiller."
+        },
+        {
+          "q": "How long does implant treatment take?",
+          "a": "Placing the implant takes 20–40 minutes. You then wait 2–3 months for it to bond with the bone, after which the permanent tooth is fitted. In suitable cases a temporary tooth can be made on the same day."
+        },
+        {
+          "q": "Can I have an implant if my bone is insufficient?",
+          "a": "In most cases, yes. The bone volume can be increased with procedures such as bone grafting or sinus lifting before the implant is placed. This is assessed with an X-ray at the check-up."
+        },
+        {
+          "q": "How long does an implant last?",
+          "a": "With good oral hygiene and regular check-ups, an implant can last a lifetime. The crown on top may need renewing after 10–15 years."
+        },
+        {
+          "q": "What determines the price of an implant?",
+          "a": "The implant brand used, the type of crown (porcelain or zirconia), whether bone grafting is needed and the number of implants all affect the price. A clear plan and price are given at the check-up."
+        }
+      ],
+      "related": [
+        "protez",
+        "dis-cekimi",
+        "dis-eti-tedavisi"
+      ]
+    },
+    {
+      "id": "gulus-tasarimi",
+      "slug": "smile-design",
+      "icon": "smile",
+      "name": "Smile Design",
+      "short": "A combination of veneers, zirconia and whitening planned around your facial features, age and lip structure.",
+      "meta_title": "Smile Design in Kayaşehir | Cosmetic Dentist Başakşehir",
+      "meta_description": "Smile design in Kayaşehir, Başakşehir, Istanbul: veneers, zirconia, whitening and gum aesthetics tailored to your face. Assessment.",
+      "h1": "Smile Design in Kayaşehir, Istanbul",
+      "intro": "Smile design combines dentistry and artistry to plan the ideal smile for you. Your facial features, gender, age, lip and gum structure, and the alignment and colour of your teeth are all assessed together; the result is not artificial, but a smile that is truly yours.",
+      "sections": [
+        {
+          "title": "What is assessed in smile design?",
+          "items": [
+            "Facial features and smile symmetry",
+            "Tooth shape suited to age and gender",
+            "Alignment, length and colour of the teeth",
+            "Lip line and gum visibility",
+            "Jaw relationship and chewing function"
+          ]
+        },
+        {
+          "title": "Which treatments are used?",
+          "items": [
+            "Porcelain veneers",
+            "Zirconia crowns",
+            "Teeth whitening",
+            "Minor corrections with composite bonding",
+            "Gum contouring (pink aesthetics)",
+            "Preparatory orthodontics if needed"
+          ]
+        },
+        {
+          "title": "How does the treatment proceed?",
+          "items": [
+            "Consultation, photographs and X-ray analysis.",
+            "The new smile is designed digitally or on a wax model; a temporary trial (mock-up) is available on request.",
+            "After your approval, minimal preparation of the teeth and the laboratory stage.",
+            "Permanent restorations are bonded in place and checked. About 7–14 days on average."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "How many appointments does smile design take?",
+          "a": "Usually 2–4 appointments over a total of 1–2 weeks. It takes longer if orthodontics or gum treatment is needed."
+        },
+        {
+          "q": "Does smile design damage the teeth?",
+          "a": "Very little tooth material is removed for veneers and bonding, and in some cases none at all. When properly planned, it does not harm the tooth."
+        },
+        {
+          "q": "How long do the results last?",
+          "a": "Porcelain veneers and zirconia restorations last 10–15 years or more with good care. The effect of whitening lasts 1–3 years."
+        },
+        {
+          "q": "Can I see the result beforehand?",
+          "a": "Yes. With a digital design and an in-mouth mock-up you can try your new smile before any permanent work begins."
+        }
+      ],
+      "related": [
+        "lamine",
+        "dis-beyazlatma",
+        "ortodonti"
+      ]
+    },
+    {
+      "id": "lamine",
+      "slug": "porcelain-veneers",
+      "icon": "veneer",
+      "name": "Porcelain Veneers",
+      "short": "A lasting aesthetic solution for colour, shape and spacing problems in the front teeth, using very thin porcelain shells.",
+      "meta_title": "Porcelain Veneers in Kayaşehir | Dental Veneers Başakşehir",
+      "meta_description": "Porcelain veneers in Kayaşehir, Istanbul: a minimal-preparation solution for discolouration, gaps, chips and crowding. Ay Yıldız Dental Clinic, Başakşehir.",
+      "h1": "Porcelain Veneers in Kayaşehir, Istanbul",
+      "intro": "Veneers are porcelain layers, 0.3–0.7 mm thick, bonded to the front surface of front teeth with aesthetic problems. Very little tooth material is removed, and colour, shape and minor alignment problems are solved in one go.",
+      "sections": [
+        {
+          "title": "When are veneers used?",
+          "items": [
+            "Discolouration that whitening cannot remove",
+            "Gaps between teeth (diastema)",
+            "Chipped, worn or short teeth",
+            "Replacing old, stained fillings",
+            "Mild crowding (for patients who do not want orthodontics)"
+          ]
+        },
+        {
+          "title": "How does the treatment proceed?",
+          "items": [
+            "Consultation, colour and shape planning.",
+            "A very thin layer is removed from the front of the teeth and an impression is taken.",
+            "Temporary veneers are fitted while your custom porcelain veneers are made in the laboratory.",
+            "The veneers are bonded with a special adhesive. Total 5–10 days."
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The look closest to the light transmission of natural teeth",
+            "Resistant to staining and discolouration",
+            "Minimal preparation, tooth vitality is preserved",
+            "A lifespan of 10–15 years or more"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Veneers or zirconia?",
+          "a": "If there is no major loss of tooth structure or root canal treatment, veneers need less preparation and look more natural. Zirconia crowns are preferred for teeth with large fillings or severe crowding."
+        },
+        {
+          "q": "Can veneers break?",
+          "a": "Once bonded, porcelain veneers become one with the tooth and withstand normal chewing forces. A night guard is recommended for people who clench or grind their teeth."
+        },
+        {
+          "q": "Is getting veneers painful?",
+          "a": "The preparation is so superficial that anaesthesia is often not even needed; the procedure is painless."
+        }
+      ],
+      "related": [
+        "gulus-tasarimi",
+        "dis-beyazlatma",
+        "dolgu"
+      ]
+    },
+    {
+      "id": "ortodonti",
+      "slug": "orthodontics-braces-clear-aligners",
+      "icon": "braces",
+      "name": "Orthodontics (Braces and Clear Aligners)",
+      "short": "Neatly aligned teeth for children and adults with metal or ceramic braces and clear aligners.",
+      "meta_title": "Orthodontics in Kayaşehir | Braces & Clear Aligners Istanbul",
+      "meta_description": "Orthodontics in Kayaşehir, Başakşehir: braces, ceramic brackets and clear aligners for children and adults. Orthodontic check-up from age 7.",
+      "h1": "Orthodontics: Braces and Clear Aligners in Kayaşehir",
+      "intro": "Orthodontics is the branch of dentistry that corrects misalignment of the teeth and jaws to give the patient good aesthetics, speech and chewing function. Crowded teeth affect not only appearance but also gum health, decay risk and the jaw joint.",
+      "sections": [
+        {
+          "title": "Who is orthodontic treatment for?",
+          "items": [
+            "Patients of any age with crowded, gapped or rotated teeth",
+            "People with an upper and lower jaw mismatch (bite problems)",
+            "Early check-ups for children aged 7–10 and, if needed, jaw guidance",
+            "Patients whose teeth look straight but whose bite is off"
+          ]
+        },
+        {
+          "title": "Treatment options",
+          "items": [
+            "Metal brackets: the most economical and effective method",
+            "Ceramic (tooth-coloured) brackets: less visible",
+            "Clear aligners: removable and almost invisible; for suitable cases",
+            "Removable appliances: for children who are still growing"
+          ]
+        },
+        {
+          "title": "Treatment process",
+          "items": [
+            "Consultation, panoramic and cephalometric X-rays, model analysis.",
+            "Explanation of the treatment plan and options.",
+            "Fitting of brackets or aligners; check-ups every 4–8 weeks.",
+            "Treatment lasts from 6 months to 3 years, followed by a retention period."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is there an age limit for orthodontic treatment?",
+          "a": "No. As long as your teeth and gums are healthy, orthodontics can be done at any age. For children, a first check-up at around age 7 is recommended."
+        },
+        {
+          "q": "Clear aligners or braces?",
+          "a": "Clear aligners offer invisibility and comfort and are ideal for mild to moderate cases. For serious bite problems, fixed brackets give stronger results. The right choice is decided at your consultation."
+        },
+        {
+          "q": "Do braces hurt?",
+          "a": "For the first 2–3 days after fitting, and after each adjustment, you feel mild pressure; this is normal and passes quickly."
+        },
+        {
+          "q": "Do the teeth go back once treatment is finished?",
+          "a": "They can if a retainer or fixed wire is not used. That is why the retention period after treatment is part of the treatment."
+        }
+      ],
+      "related": [
+        "cocuk-dis-hekimligi",
+        "gulus-tasarimi",
+        "dis-cekimi"
+      ]
+    },
+    {
+      "id": "cocuk-dis-hekimligi",
+      "slug": "pediatric-dentistry",
+      "icon": "child",
+      "name": "Paediatric Dentistry",
+      "short": "Digital anaesthesia, preventive care and a fear-free first visit with a specialist paediatric dentist.",
+      "meta_title": "Children's Dentist in Kayaşehir | Paediatric Dentistry Istanbul",
+      "meta_description": "Children's dentist in Kayaşehir, Başakşehir: Dr. Vahide Ceyda Acar, paediatric dentist, for baby teeth, sealants, fluoride, crowns and digital anaesthesia.",
+      "h1": "Paediatric Dentistry in Kayaşehir, Istanbul",
+      "intro": "Paediatric dentistry is the speciality dedicated to protecting and treating the baby and permanent teeth of children aged 0–14. Our paediatric dentist makes the first visit feel like play, treats without hurting and wins the child's trust, preventing a lifelong fear of the dentist.",
+      "sections": [
+        {
+          "title": "Treatments we offer",
+          "items": [
+            "Preventive care: fluoride varnish, fissure sealants",
+            "Fillings and pulp (pulpotomy) treatments in baby and permanent teeth",
+            "Paediatric (stainless steel and aesthetic) crowns",
+            "ICON treatment for white spots and SDF to arrest decay",
+            "Space maintainers",
+            "Pain-free treatment with digital anaesthesia",
+            "Treatment planning under general anaesthesia for children who cannot be treated in the clinic"
+          ]
+        },
+        {
+          "title": "When should the first visit be?",
+          "text": "When the first baby tooth appears, and by age 1 at the latest. Meeting the dentist early prevents both decay and fear. An orthodontic check-up is recommended at around age 7."
+        },
+        {
+          "title": "Advice for parents",
+          "items": [
+            "Do not give milk or juice in a bottle at night (baby bottle decay).",
+            "From age 2, brush twice a day with fluoride children's toothpaste.",
+            "A check-up and fluoride application every 6 months.",
+            "Do not describe the dentist in a frightening way in front of your child."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Baby teeth fall out anyway, is treatment necessary?",
+          "a": "Yes. A decayed baby tooth causes pain and abscesses and can damage the permanent tooth beneath it; if lost early, it leads to lack of space and crowding."
+        },
+        {
+          "q": "My child is afraid of the dentist, what can we do?",
+          "a": "The first appointment is only for getting to know each other and play. With digital anaesthesia there is no sensation of a needle. If needed, we introduce treatment gradually."
+        },
+        {
+          "q": "Is fluoride application safe?",
+          "a": "Yes. Professional fluoride varnish is a safe and effective way of preventing decay, recommended worldwide."
+        },
+        {
+          "q": "Which children have dental treatment under general anaesthesia?",
+          "a": "It is planned in a hospital setting for very young children with many cavities, children who cannot cooperate in the clinic, or children with special needs."
+        }
+      ],
+      "related": [
+        "ortodonti",
+        "dolgu",
+        "kanal-tedavisi"
+      ]
+    },
+    {
+      "id": "kanal-tedavisi",
+      "slug": "root-canal-treatment",
+      "icon": "root",
+      "name": "Root Canal Treatment (Endodontics)",
+      "short": "A treatment, usually completed in a single visit, that saves an infected or painful tooth from extraction.",
+      "meta_title": "Root Canal Treatment in Kayaşehir | Endodontics Başakşehir",
+      "meta_description": "Root canal treatment in Kayaşehir: why it is needed, how many visits, is it painful? Save your tooth from extraction at Ay Yıldız Dental Clinic, Başakşehir.",
+      "h1": "Root Canal Treatment in Kayaşehir, Istanbul",
+      "intro": "Root canal treatment is carried out to save a tooth from extraction when the nerve and blood vessel tissue inside it (the pulp) has become infected because of decay or trauma. The infected tissue is cleaned out, and the canals are disinfected and filled; the tooth stays in your mouth.",
+      "sections": [
+        {
+          "title": "When is root canal treatment needed?",
+          "items": [
+            "Toothache that lingers after hot or cold, or comes on by itself",
+            "Throbbing pain that wakes you at night",
+            "Swelling or a pimple (abscess) on the gum",
+            "Darkening in the colour of the tooth",
+            "Nerve damage caused by deep decay or a fracture"
+          ]
+        },
+        {
+          "title": "How does the treatment proceed?",
+          "items": [
+            "The canal structure is assessed with an X-ray and local anaesthesia is given.",
+            "The decay is removed, the canals are reached and shaped with a rotary instrument system.",
+            "The canals are disinfected and sealed with a special filling material.",
+            "The tooth is restored with a filling or crown. One visit in most cases; 2–3 visits for abscessed teeth."
+          ]
+        },
+        {
+          "title": "After treatment",
+          "text": "Some tenderness when chewing for a few days is normal. Because a tooth that has had a root canal is more fragile, protection with a crown or onlay is recommended for back teeth."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is root canal treatment painful?",
+          "a": "No. It is done under local anaesthesia. The pain is usually there before the treatment, and the treatment removes it."
+        },
+        {
+          "q": "How many visits does root canal treatment take?",
+          "a": "Most teeth are completed in a single visit (45–90 minutes). If there is an abscess or heavy infection, 2–3 visits may be needed."
+        },
+        {
+          "q": "Do I need a crown after root canal treatment?",
+          "a": "For back teeth, yes; a tooth that has had a root canal is more fragile, and protecting it with a crown extends its life. For front teeth, a filling is often enough."
+        },
+        {
+          "q": "Wouldn't it be better to just have the tooth pulled?",
+          "a": "Your own tooth is always the best option. After an extraction the gap needs an implant or bridge; root canal treatment is more economical and more natural."
+        }
+      ],
+      "related": [
+        "dolgu",
+        "protez",
+        "implant"
+      ]
+    },
+    {
+      "id": "dolgu",
+      "slug": "dental-fillings",
+      "icon": "filling",
+      "name": "Dental Fillings",
+      "short": "Decay is removed and the tooth repaired in one visit with a tooth-coloured composite. Aesthetic and durable.",
+      "meta_title": "Dental Fillings in Kayaşehir | White Fillings Başakşehir",
+      "meta_description": "Dental fillings in Kayaşehir: white composite fillings, porcelain inlays and onlays, sensitivity after fillings and filling lifespan. Ay Yıldız Dental, Başakşehir.",
+      "h1": "Dental Fillings in Kayaşehir, Istanbul",
+      "intro": "A filling replaces tooth structure lost to decay or fracture, restoring the shape and function of the tooth. Tooth-coloured composite fillings are done in a single visit and are aesthetically unnoticeable.",
+      "sections": [
+        {
+          "title": "Types of fillings",
+          "items": [
+            "Composite (white) filling: single visit, aesthetic, bonds to the tooth",
+            "Inlay-onlay (porcelain) filling: a durable restoration made in the laboratory for large areas of lost tooth structure",
+            "Composite bonding: closing chips and gaps in front teeth"
+          ]
+        },
+        {
+          "title": "How does the treatment proceed?",
+          "items": [
+            "The depth of the decay is determined with an examination and X-ray.",
+            "Local anaesthesia if needed; the decay is removed completely.",
+            "The composite is placed in layers and hardened with light.",
+            "Bite check and polishing. Total 30–45 minutes."
+          ]
+        },
+        {
+          "title": "After a filling",
+          "text": "Do not eat until the anaesthetic has worn off. Sensitivity to cold is normal in the first few days. Brush the filled tooth as usual; avoid biting hard objects."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How long do white fillings last?",
+          "a": "On average 7–10 years with regular care. The size and position of the filling and any clenching habit affect its lifespan."
+        },
+        {
+          "q": "White filling or amalgam (silver) filling?",
+          "a": "Composite fillings are aesthetic, bond to the tooth to strengthen it and require less tooth material to be removed. That is why they are the preferred option today."
+        },
+        {
+          "q": "Is pain normal after a filling?",
+          "a": "Sensitivity to hot and cold can last from a few days to a few weeks. If it hurts when you bite, the filling may be high; a quick adjustment solves it."
+        },
+        {
+          "q": "Can I have a filling during pregnancy?",
+          "a": "Yes. It is done safely, especially in the second trimester; leaving a painful, infected tooth untreated is riskier."
+        }
+      ],
+      "related": [
+        "kanal-tedavisi",
+        "lamine",
+        "cocuk-dis-hekimligi"
+      ]
+    },
+    {
+      "id": "dis-eti-tedavisi",
+      "slug": "gum-disease-treatment-teeth-cleaning",
+      "icon": "gum",
+      "name": "Gum Disease Treatment and Teeth Cleaning",
+      "short": "Treatment of tartar and inflammation, the most common causes of bleeding gums, gum recession and bad breath.",
+      "meta_title": "Gum Treatment & Teeth Cleaning in Kayaşehir | Başakşehir",
+      "meta_description": "Bleeding gums and scale and polish in Kayaşehir, Istanbul: gingivitis, periodontitis, deep cleaning and maintenance care at Ay Yıldız Dental, Başakşehir.",
+      "h1": "Gum Disease Treatment and Teeth Cleaning in Kayaşehir",
+      "intro": "Plaque and tartar building up on the teeth are the most common cause of bleeding and red gums and bad breath. Untreated gum inflammation (gingivitis) progresses to bone loss and loose teeth (periodontitis). In the early stage it can be completely reversed with a simple cleaning.",
+      "sections": [
+        {
+          "title": "Symptoms",
+          "items": [
+            "Gums that bleed when brushing or on their own",
+            "Red, swollen or tender gums",
+            "Receding gums and teeth that look longer",
+            "Persistent bad breath",
+            "Loose or spreading teeth"
+          ]
+        },
+        {
+          "title": "Treatment options",
+          "items": [
+            "Scale and polish (scaling): with an ultrasonic device, 30–45 minutes, painless",
+            "Root surface planing (deep cleaning): removing tartar below the gum line, under anaesthesia",
+            "Gum surgery: flap surgery and bone reshaping in advanced cases",
+            "Gum aesthetics: correcting a gummy smile and gum recession"
+          ]
+        },
+        {
+          "title": "Prevention",
+          "items": [
+            "Brush for 2 minutes, twice a day",
+            "Floss or use interdental brushes every day",
+            "A check-up and cleaning every 6 months",
+            "Quit smoking"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why do gums bleed, and is it dangerous?",
+          "a": "The most common cause is gum inflammation brought on by plaque and tartar. In the early stage it is not dangerous and clears up in 1–2 weeks with a cleaning; if neglected, it progresses to bone loss and tooth loss."
+        },
+        {
+          "q": "Does teeth cleaning damage the teeth?",
+          "a": "No. Ultrasonic cleaning only removes the tartar and does not harm the enamel. The gaps you feel after cleaning are simply the spaces the tartar had been filling."
+        },
+        {
+          "q": "How often should teeth be cleaned?",
+          "a": "Every 6 months for most people; every 3–4 months if you have a history of gum disease, smoke or have diabetes."
+        },
+        {
+          "q": "Does gum recession grow back?",
+          "a": "Receded gums do not grow back on their own, but the progression can be stopped and, in suitable cases, they can be covered with a gum graft."
+        },
+        {
+          "q": "Should I use dental floss?",
+          "a": "Yes. A toothbrush cleans only about 60% of tooth surfaces; floss or interdental brushes are essential for the spaces in between."
+        }
+      ],
+      "related": [
+        "dolgu",
+        "implant",
+        "dis-beyazlatma"
+      ]
+    },
+    {
+      "id": "dis-beyazlatma",
+      "slug": "teeth-whitening",
+      "icon": "whitening",
+      "name": "Teeth Whitening",
+      "short": "Several shades whiter teeth with single-visit in-office whitening and home whitening with trays.",
+      "meta_title": "Teeth Whitening in Kayaşehir | Professional Whitening Istanbul",
+      "meta_description": "Teeth whitening in Kayaşehir, Başakşehir: in-office single-visit and home whitening, how long it lasts, sensitivity and safety. Ay Yıldız Dental Clinic.",
+      "h1": "Teeth Whitening in Kayaşehir, Istanbul",
+      "intro": "Teeth whitening lightens stains that have penetrated the enamel and dentine using special gels. When carried out under a dentist's supervision it is safe and lightens teeth by several shades in a single visit.",
+      "sections": [
+        {
+          "title": "Whitening methods",
+          "items": [
+            "In-office: 45–60 minutes at the clinic, light-assisted, instant results",
+            "At-home: custom trays and gel used at home for 1–2 weeks",
+            "Combined: both together for the longest-lasting result",
+            "Single-tooth whitening: internal whitening for darkened teeth that have had root canal treatment"
+          ]
+        },
+        {
+          "title": "Before whitening",
+          "text": "A scale and polish is done first and any decay is treated. Fillings, crowns and veneers do not whiten; they are renewed after the procedure if necessary."
+        },
+        {
+          "title": "Afterwards and how long it lasts",
+          "text": "For the first 48 hours avoid tea, coffee, smoking and strongly coloured foods. The effect lasts 1–3 years depending on your habits and is easily refreshed with home trays."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Does teeth whitening damage the teeth?",
+          "a": "When carried out under a dentist's supervision at the right concentration, it does not harm the enamel. Temporary sensitivity can occur and passes within 1–2 days."
+        },
+        {
+          "q": "How many shades whiter will my teeth get?",
+          "a": "Usually 2–4 shades. Yellowish stains respond better than grey-brown stains."
+        },
+        {
+          "q": "Who should not have whitening?",
+          "a": "It is not recommended for pregnant or breastfeeding women, people under 16, people with untreated decay or gum disease, and people with severe enamel sensitivity."
+        }
+      ],
+      "related": [
+        "gulus-tasarimi",
+        "lamine",
+        "dis-eti-tedavisi"
+      ]
+    },
+    {
+      "id": "protez",
+      "slug": "dental-crowns-zirconia-prosthetics",
+      "icon": "crown",
+      "name": "Dental Crowns, Zirconia and Prosthetics",
+      "short": "Restoring chewing and aesthetics with zirconia and porcelain crowns, bridges, implant-supported and removable dentures.",
+      "meta_title": "Zirconia Crowns & Dentures in Kayaşehir | Başakşehir",
+      "meta_description": "Zirconia crowns, porcelain crowns, bridges, implant-supported and removable dentures in Kayaşehir, Istanbul. Personalised prosthetic care at Ay Yıldız Dental.",
+      "h1": "Dental Crowns, Zirconia and Prosthetics in Kayaşehir",
+      "intro": "Prosthetic dentistry restores function and aesthetics for missing or badly damaged teeth with crowns, bridges, implant-supported prostheses or removable dentures. Metal-free zirconia crowns offer a natural tooth appearance and high durability.",
+      "sections": [
+        {
+          "title": "Prosthetic options",
+          "items": [
+            "Zirconia crown: metal-free, causes no darkening at the gum line, natural light transmission",
+            "Porcelain (metal-supported) crown: economical and durable",
+            "Bridge: a fixed prosthesis that takes support from the teeth either side of the missing tooth",
+            "Fixed or removable implant-supported prostheses",
+            "Complete and partial removable dentures",
+            "Night guard: protection against clenching and grinding"
+          ]
+        },
+        {
+          "title": "How does the treatment proceed?",
+          "items": [
+            "Consultation and planning; shade selection.",
+            "Preparation of the teeth and a digital or conventional impression.",
+            "A temporary crown during the laboratory stage (5–7 days).",
+            "Try-in, bite check and permanent cementation."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "How long do zirconia crowns last?",
+          "a": "10–15 years or more with good care. Regular check-ups and flossing prevent decay at the margins."
+        },
+        {
+          "q": "Zirconia or porcelain?",
+          "a": "Zirconia contains no metal, so it is more aesthetic and does not darken at the gum margin; it is especially preferred for front teeth. Both work well for back teeth."
+        },
+        {
+          "q": "Is a lot of tooth removed for a crown?",
+          "a": "About 1–1.5 mm of tooth is removed for zirconia. The vitality of the tooth is mostly preserved."
+        }
+      ],
+      "related": [
+        "implant",
+        "kanal-tedavisi",
+        "gulus-tasarimi"
+      ]
+    },
+    {
+      "id": "dis-cekimi",
+      "slug": "tooth-extraction-wisdom-teeth",
+      "icon": "extraction",
+      "name": "Tooth Extraction and Impacted Wisdom Teeth",
+      "short": "Pain-free removal of teeth that cannot be saved, and impacted wisdom tooth surgery.",
+      "meta_title": "Tooth Extraction & Wisdom Teeth in Kayaşehir | Istanbul",
+      "meta_description": "Pain-free tooth extraction and impacted wisdom tooth removal in Kayaşehir, Başakşehir: when it is needed, healing and aftercare. Ay Yıldız Dental Clinic.",
+      "h1": "Tooth Extraction and Impacted Wisdom Teeth in Kayaşehir",
+      "intro": "Tooth extraction is the last option for teeth that cannot be saved by fillings, root canal treatment or crowns. Wisdom teeth often do not fit in the jaw and stay impacted; they may need to be removed because of pain, decay in the neighbouring tooth and the risk of cysts.",
+      "sections": [
+        {
+          "title": "When is extraction needed?",
+          "items": [
+            "Teeth that cannot be restored because of severe decay or fracture",
+            "Loose teeth caused by advanced gum disease",
+            "Impacted or partially impacted wisdom teeth",
+            "Making space for orthodontic treatment",
+            "Baby teeth that do not fall out"
+          ]
+        },
+        {
+          "title": "How is the procedure done?",
+          "items": [
+            "The root structure and closeness to the nerve are assessed with an X-ray.",
+            "Local anaesthesia; you feel no pain during the procedure, only a sensation of pressure.",
+            "A simple extraction takes 10–20 minutes; impacted tooth surgery 30–60 minutes.",
+            "Stitches are placed if needed and removed after 7–10 days."
+          ]
+        },
+        {
+          "title": "Aftercare for extraction",
+          "items": [
+            "Bite on the gauze for 30–45 minutes; do not spit or rinse.",
+            "On the first day avoid hot food, smoking and straws.",
+            "Apply a cold pack to the outside of the face; from day 2, rinse gently with warm salty water.",
+            "Take your painkiller as your dentist advises."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can't I just take antibiotics instead of having the tooth pulled?",
+          "a": "Antibiotics only suppress the infection temporarily; if the tooth that is the source is not treated, the abscess comes back. Antibiotics are given to support treatment when they are needed."
+        },
+        {
+          "q": "Does every wisdom tooth have to be removed?",
+          "a": "No. Wisdom teeth that have erupted properly, can be cleaned and cause no problems may stay in the mouth. Teeth that are impacted, painful or causing decay in the neighbouring tooth are removed."
+        },
+        {
+          "q": "How long does healing take after extraction?",
+          "a": "You are fully back to daily life in 3–5 days after a simple extraction and 7–10 days after impacted tooth surgery. Swelling is greatest on days 2–3 and then goes down."
+        },
+        {
+          "q": "What should be done to replace the extracted tooth?",
+          "a": "For missing teeth other than wisdom teeth, the gap lets neighbouring teeth tilt. Replacing the tooth with an implant or bridge within 2–3 months is recommended."
+        }
+      ],
+      "related": [
+        "implant",
+        "ortodonti",
+        "dis-eti-tedavisi"
+      ]
+    }
+  ],
+  "dentists_index": {
+    "meta_title": "Our Dentists | Kayaşehir, Istanbul – Ay Yıldız Dental Clinic",
+    "meta_description": "Dentists at Ay Yıldız Dental Clinic, Kayaşehir: Dr. Fatih Gülcü, Dr. Rukiye Şule Yaşar, Dr. Vahide Ceyda Acar (paediatric), Dr. Buse Günaydın, Dr. Emirhan Yücetürk.",
+    "title": "Our Dentists",
+    "intro": "A team in which every member is trained in their own field, listens to their patients and explains things clearly."
+  },
+  "dentists": [
+    {
+      "id": "fatih-gulcu",
+      "slug": "dr-fatih-gulcu",
+      "name": "Dr. Fatih Gülcü",
+      "title": "Dentist · Founder and Clinic Director",
+      "specialty": "Aesthetic dentistry, implantology",
+      "photo": "fatih",
+      "has_photo": false,
+      "meta_title": "Dr. Fatih Gülcü | Dentist in Kayaşehir, Başakşehir, Istanbul",
+      "meta_description": "Dr. Fatih Gülcü is the founding dentist and clinic director of Ay Yıldız Oral and Dental Health Clinic. Aesthetic dentistry and implantology in Kayaşehir.",
+      "summary": "Founding dentist of Ay Yıldız Oral and Dental Health Clinic. Practises in Kayaşehir with a personalised approach to treatment and the aim of being “your family's dentist”.",
+      "about": [
+        "At the clinic he founded in Kayaşehir, Dr. Fatih Gülcü follows a treatment philosophy that aims for maximum patient comfort with minimum procedures. He sees patients in every branch of modern dentistry, particularly aesthetic dentistry and implantology.",
+        "He cares that patients who are afraid of the dentist are treated in a calm, well-equipped environment; believing that learning lasts a lifetime, he brings current technology and methods into the clinic."
+      ],
+      "areas": [
+        "Aesthetic dentistry and smile design",
+        "Dental implant treatments",
+        "Zirconia and porcelain restorations",
+        "General dentistry"
+      ],
+      "education": [],
+      "experience": [],
+      "certificates": [],
+      "memberships": [],
+      "languages": [
+        "Turkish"
+      ]
+    },
+    {
+      "id": "rukiye-sule-yasar",
+      "slug": "dr-rukiye-sule-yasar",
+      "name": "Dr. Rukiye Şule Yaşar",
+      "title": "Dentist",
+      "specialty": "Root canal treatment, aesthetic and restorative dentistry, children's dental treatments",
+      "photo": "rukiye",
+      "has_photo": true,
+      "meta_title": "Dr. Rukiye Şule Yaşar | Dentist in Kayaşehir, Istanbul",
+      "meta_description": "Dr. Rukiye Şule Yaşar: root canal treatment, aesthetic fillings and composite veneers, children's treatments and prosthetics at Ay Yıldız Dental Clinic, Kayaşehir.",
+      "summary": "Focuses on root canal treatment, aesthetic and restorative procedures, children's dental treatments and prosthetic treatments.",
+      "about": [
+        "Dr. Rukiye Şule Yaşar graduated from the Faculty of Dentistry at Bülent Ecevit University in 2021. In her professional work she focuses on root canal treatment, aesthetic and restorative dentistry, children's dental treatments and prosthetic treatments.",
+        "In her treatments she takes her patients' needs into account and weighs oral health, function and aesthetic expectations together. Aware that every patient's needs are different, she explains the treatment options clearly and cares about patient comfort and about carrying out the treatment process with care."
+      ],
+      "areas": [
+        "Root canal treatments",
+        "Aesthetic fillings and composite veneers",
+        "Treatment of baby and permanent teeth",
+        "Vital pulp therapy",
+        "Space maintainers",
+        "Zirconia and porcelain restorations",
+        "Implant-supported prostheses"
+      ],
+      "education": [
+        "Bülent Ecevit University, Faculty of Dentistry (2021)"
+      ],
+      "experience": [],
+      "certificates": [],
+      "memberships": [],
+      "languages": [
+        "Turkish"
+      ]
+    },
+    {
+      "id": "vahide-ceyda-acar",
+      "slug": "dr-vahide-ceyda-acar-pediatric-dentist",
+      "name": "Dr. Vahide Ceyda Acar",
+      "title": "Specialist Paediatric Dentist (Pedodontics)",
+      "specialty": "Paediatric dentistry, preventive oral health care, digital anaesthesia",
+      "photo": "vahide",
+      "has_photo": true,
+      "meta_title": "Dr. Vahide Ceyda Acar | Children's Dentist in Kayaşehir",
+      "meta_description": "Dr. Vahide Ceyda Acar, specialist paediatric dentist (pedodontist). Digital anaesthesia, paediatric crowns, ICON and SDF at Ay Yıldız Dental, Kayaşehir.",
+      "summary": "A paediatric dentist with about 6 years of clinical experience and a graduate of the Altınbaş University Doctorate Programme in Paediatric Dentistry.",
+      "about": [
+        "With about 6 years of clinical experience in paediatric dentistry, Dr. Vahide Ceyda Acar focuses on protecting children's oral and dental health and carrying out treatment in a way that suits their needs.",
+        "With experience gained in various private clinics and university clinics, she works in routine paediatric procedures as well as digital anaesthesia, paediatric crowns, ICON and SDF treatments. She can also take part in treating child patients under general anaesthesia when treatment in the clinic is not suitable.",
+        "She values patient comfort through strong communication with child patients and their families, an ethical approach and multidisciplinary teamwork."
+      ],
+      "areas": [
+        "Paediatric dentistry and preventive oral health care",
+        "Digital anaesthesia",
+        "Paediatric crown procedures",
+        "ICON and SDF treatments",
+        "Dental treatment of child patients under general anaesthesia"
+      ],
+      "education": [
+        "Altınbaş University – Doctorate Programme in Paediatric Dentistry (2019–2024)",
+        "İstanbul Medipol University – Faculty of Dentistry (2015–2019)",
+        "İstanbul Yeni Yüzyıl University – English Preparatory School (2013–2015)"
+      ],
+      "experience": [],
+      "certificates": [
+        "2022 – 28th International Congress of the Turkish Society of Paediatric Dentistry",
+        "2021 – NuSmile Esthetic Crowns in Pediatric Dentistry; NuSmile Pulp Therapy in Pediatric Dentistry",
+        "2020 – Aesthetic Solutions in the Anterior Region with Composite Resins (Vesta Akademi)",
+        "2019 – 5th Young EDAD Symposium; Istanbul University Dental Summer Camp; Dental Photography Course; Inlay-Onlay Restorations Course; Rotary Instruments and Microscope Use in Endodontics Course; Myobrace Advanced Level Seminar",
+        "2017–2018 – TDB International Dental Congresses; GREATIST International Dental Congress; Uniglobal Student Symposium"
+      ],
+      "memberships": [
+        "Turkish Society of Paediatric Dentistry",
+        "Aesthetic Dentistry Association (2018–2021)"
+      ],
+      "languages": [
+        "Turkish",
+        "English"
+      ]
+    },
+    {
+      "id": "buse-gunaydin",
+      "slug": "dr-buse-gunaydin",
+      "name": "Dr. Buse Günaydın",
+      "title": "Dentist",
+      "specialty": "Orthodontics, restorative dental treatments, root canal treatment",
+      "photo": "buse",
+      "has_photo": true,
+      "meta_title": "Dr. Buse Günaydın | Dentist in Kayaşehir, Istanbul",
+      "meta_description": "Dr. Buse Günaydın: orthodontics, restorative treatments, root canals, scale and polish and extractions at Ay Yıldız Dental Clinic, Kayaşehir.",
+      "summary": "A graduate of İstanbul Galata University; works in orthodontics, restorative treatments and endodontics.",
+      "about": [
+        "Dr. Buse Günaydın graduated from the Faculty of Dentistry at İstanbul Galata University. She is a dentist who aims to keep developing her professional knowledge and clinical experience, and who puts patient satisfaction and ethical working principles first.",
+        "During her university education and clinical placements she gained experience in restorative treatments, endodontics, extractions, periodontal procedures and orthodontic treatments; she has built on her professional experience through work in private clinics and continues her work in orthodontics.",
+        "Placing importance on communication with patients, Dr. Buse Günaydın aims to contribute to protecting and improving oral and dental health by taking each patient's needs into account."
+      ],
+      "areas": [
+        "Orthodontics",
+        "Restorative dental treatments",
+        "Root canal treatment (endodontics)",
+        "Scale and polish and periodontal procedures",
+        "Tooth extraction",
+        "Protecting oral and dental health"
+      ],
+      "education": [
+        "İstanbul Galata University – Dentistry (2020–2025)"
+      ],
+      "experience": [
+        "Dentist in private oral and dental health clinics (2025–)",
+        "İstanbul Galata University – Clinical Dentistry Placement (2023–2025)"
+      ],
+      "certificates": [
+        "Basic First Aid Certificate",
+        "Sterilisation and Infection Control Certificate",
+        "İDO 3rd Istanbul Meeting"
+      ],
+      "memberships": [],
+      "languages": [
+        "Turkish",
+        "English (B2)"
+      ]
+    },
+    {
+      "id": "emirhan-yuceturk",
+      "slug": "dr-emirhan-yuceturk",
+      "name": "Dr. Emirhan Yücetürk",
+      "title": "Dentist",
+      "specialty": "Prosthetic dentistry, aesthetic restorative treatments, root canal treatment",
+      "photo": "emirhan",
+      "has_photo": true,
+      "meta_title": "Dr. Emirhan Yücetürk | Dentist in Kayaşehir, Istanbul",
+      "meta_description": "Dr. Emirhan Yücetürk: zirconia and porcelain prosthetics, implant-supported prostheses, composite veneers and root canals at Ay Yıldız Dental Clinic, Kayaşehir.",
+      "summary": "With over 3 years of clinical experience, works in prosthetics, aesthetic restorative treatments and endodontics.",
+      "about": [
+        "Dr. Emirhan Yücetürk graduated from the Faculty of Dentistry at Afyonkarahisar Health Sciences University in 2024. During more than 3 years of clinical and field experience, he has carried out the diagnosis, treatment and follow-up of patients of different age groups in private dental clinics and in military healthcare.",
+        "Making it a principle to communicate with his patients in a transparent and trust-based way, Dr. Yücetürk applies current technology and modern dental protocols in his clinical practice."
+      ],
+      "areas": [
+        "Prosthetic dentistry: zirconia and porcelain fixed prostheses, complete and partial removable dentures",
+        "Implant-supported prosthetic rehabilitation",
+        "Aesthetic restorative dentistry: composite veneers and aesthetic fillings",
+        "Endodontic treatments (root canal treatment)"
+      ],
+      "education": [
+        "Afyonkarahisar Health Sciences University – Faculty of Dentistry (2024)"
+      ],
+      "experience": [
+        "Private oral and dental health clinics – Dentist",
+        "Military healthcare institution – Dentist"
+      ],
+      "certificates": [
+        "Seminar on Current Approaches in Implant-Supported Prosthetic Treatments",
+        "Aesthetic Restorative Dentistry and Smile Design Certificate Programme",
+        "Training in Fixed and Removable Prosthetic Rehabilitation Techniques",
+        "Attendance at Turkish Dental Association (TDB) National Congresses and Seminars"
+      ],
+      "memberships": [],
+      "languages": [
+        "Turkish"
+      ]
+    }
+  ],
+  "faq": {
+    "meta_title": "Dental FAQ | Bleeding Gums, Fillings, Implants – Kayaşehir",
+    "meta_description": "Frequently asked questions answered by Ay Yıldız Dental Clinic dentists in Kayaşehir, Istanbul: bleeding gums, fillings, implants, root canals, extractions, children's teeth, braces.",
+    "title": "Frequently Asked Questions",
+    "intro": "Our dentists have answered the questions our patients ask most, briefly and clearly. If you cannot find the answer to your question, message us on WhatsApp; we reply the same day.",
+    "categories": [
+      {
+        "name": "General and appointments",
+        "items": [
+          {
+            "q": "How can I book an appointment?",
+            "a": "You can call 0212 931 99 32 or 0530 391 99 32, or message us on WhatsApp. Requests received outside working hours are answered on the next working day."
+          },
+          {
+            "q": "Where is your clinic?",
+            "a": "We are in Kayaşehir, Başakşehir, at Seyranşehir Site, D3 Block, No 15C, on Kayaşehir Boulevard. It is within walking distance of the Kayaşehir Merkez metro station."
+          },
+          {
+            "q": "Which languages do you offer service in?",
+            "a": "Turkish, English and Arabic. Our website is also available in three languages."
+          },
+          {
+            "q": "What are the payment options?",
+            "a": "We accept cash and credit cards; for longer treatments, instalment options are shared at the check-up. We also help you find out whether your private health insurance covers dental care."
+          },
+          {
+            "q": "How often should I see the dentist?",
+            "a": "Even if you have no complaints, a check-up and cleaning every 6 months is recommended. Decay caught early is solved with a small filling, whereas decay found late needs a root canal or extraction."
+          }
+        ]
+      },
+      {
+        "name": "Bleeding gums and tartar",
+        "items": [
+          {
+            "q": "Why do gums bleed, and is it dangerous?",
+            "a": "The most common cause is gum inflammation (gingivitis) brought on by plaque and tartar. In the early stage it clears up in 1–2 weeks with a cleaning and good brushing. If neglected, it progresses to bone loss and tooth loss (periodontitis)."
+          },
+          {
+            "q": "Should I stop brushing if my gums bleed?",
+            "a": "No, quite the opposite. Cleaning the bleeding area more carefully with a soft brush and using floss reduces the inflammation. If the bleeding does not stop within 2 weeks, see a dentist."
+          },
+          {
+            "q": "Does teeth cleaning wear down the teeth?",
+            "a": "No. Ultrasonic cleaning only removes the tartar and does not harm the enamel. The spaces you feel between your teeth afterwards are simply where the tartar used to be."
+          },
+          {
+            "q": "How often should tartar be cleaned?",
+            "a": "Every 6 months for most people; every 3–4 months if you have a history of gum disease, smoke or have diabetes."
+          },
+          {
+            "q": "What causes bad breath?",
+            "a": "Most often tartar, gum inflammation, cavities and the bacterial coating on the tongue. Cleaning and tongue brushing largely resolve it. If it persists, stomach or sinus causes are investigated."
+          },
+          {
+            "q": "Does gum recession grow back?",
+            "a": "Receded gums do not grow back on their own, but the progression can be stopped and, in suitable cases, they can be covered with a gum graft."
+          }
+        ]
+      },
+      {
+        "name": "Fillings",
+        "items": [
+          {
+            "q": "How long do white fillings last?",
+            "a": "On average 7–10 years with regular care. The size and position of the filling and any clenching habit affect its lifespan."
+          },
+          {
+            "q": "White or black (amalgam) fillings?",
+            "a": "Composite white fillings are aesthetic, bond to the tooth to strengthen it and require less tooth material to be removed. They are the preferred option today."
+          },
+          {
+            "q": "Is sensitivity after a filling normal?",
+            "a": "Sensitivity to hot and cold can last from a few days to a few weeks. If it hurts when you bite, the filling may be high; a quick adjustment solves it."
+          },
+          {
+            "q": "Does getting a filling hurt?",
+            "a": "For deep cavities, local anaesthesia is given and the procedure is painless. For shallow cavities, anaesthesia may not even be needed."
+          },
+          {
+            "q": "Can I have a filling during pregnancy?",
+            "a": "Yes, it is done safely, especially in the second trimester. Leaving a painful, infected tooth untreated is riskier for both mother and baby."
+          },
+          {
+            "q": "Should my old filling be replaced?",
+            "a": "If there is decay, a fracture or leakage at its edge, yes. A sound, non-leaking filling does not have to be replaced just because of its colour."
+          }
+        ]
+      },
+      {
+        "name": "Implants",
+        "items": [
+          {
+            "q": "Is dental implant treatment painful?",
+            "a": "No. It is done under local anaesthesia and you feel no pain during the procedure. There may be mild tenderness for 1–2 days afterwards."
+          },
+          {
+            "q": "How long does an implant take?",
+            "a": "Placement takes 20–40 minutes. You then wait 2–3 months for bonding with the bone, after which the permanent tooth is fitted. In suitable cases a temporary tooth can be made on the same day."
+          },
+          {
+            "q": "Can I have an implant if my bone is insufficient?",
+            "a": "In most cases, yes. The bone volume can be increased with bone grafting or sinus lifting. It is assessed with an X-ray at the check-up."
+          },
+          {
+            "q": "How long does an implant last?",
+            "a": "With good hygiene and regular check-ups, it can last a lifetime. The crown on top may need renewing after 10–15 years."
+          },
+          {
+            "q": "Who cannot have implants?",
+            "a": "Risk is assessed in people with uncontrolled diabetes, young people whose bone growth is not complete (under 18), those taking strong osteoporosis medication and heavy smokers; in most cases implants can still be done once suitable conditions are met."
+          },
+          {
+            "q": "Implant or bridge?",
+            "a": "An implant does not require cutting down neighbouring teeth and preserves the bone; it is more economical in the long term. If the neighbouring teeth already need crowns, a bridge is also a good option."
+          }
+        ]
+      },
+      {
+        "name": "Root canal treatment and toothache",
+        "items": [
+          {
+            "q": "Why is root canal treatment necessary?",
+            "a": "When decay or trauma reaches the nerve of the tooth, infection begins; if this tissue is not cleaned out, an abscess and bone loss develop. Root canal treatment saves the tooth from extraction."
+          },
+          {
+            "q": "How many visits does root canal treatment take?",
+            "a": "Most teeth are completed in a single visit (45–90 minutes). If there is an abscess, 2–3 visits may be needed."
+          },
+          {
+            "q": "Do I need a crown after root canal treatment?",
+            "a": "For back teeth, yes; a tooth that has had a root canal is more fragile. For front teeth, a filling is often enough."
+          },
+          {
+            "q": "How does a tooth abscess form?",
+            "a": "It forms when bacteria collect at the root tip or in the gum as a result of untreated deep decay or gum disease. It can cause swelling, throbbing pain and fever, and needs urgent treatment."
+          },
+          {
+            "q": "What does toothache at night mean?",
+            "a": "Throbbing pain that gets worse when you lie down usually means the nerve is inflamed and root canal treatment is needed. A painkiller is only a temporary solution; see a dentist as soon as possible."
+          },
+          {
+            "q": "Does a tooth with a root canal last a lifetime?",
+            "a": "Yes, when properly restored and looked after; many root-filled teeth are used for decades."
+          }
+        ]
+      },
+      {
+        "name": "Tooth extraction and wisdom teeth",
+        "items": [
+          {
+            "q": "What is an impacted tooth, and does it need to be removed?",
+            "a": "A tooth that has not been able to erupt within the jaw is called impacted; wisdom teeth are the most common. If it causes pain, decay in the neighbouring tooth, a cyst or an orthodontic problem it is removed; a tooth that causes no problem can be monitored."
+          },
+          {
+            "q": "Can't I just take antibiotics instead of having the tooth pulled?",
+            "a": "Antibiotics suppress the infection temporarily; if the source is not treated, the abscess comes back. Antibiotics are given to support treatment when they are needed."
+          },
+          {
+            "q": "What should I watch out for after an extraction?",
+            "a": "Bite on the gauze for 30–45 minutes, do not spit or rinse on the first day, and do not smoke or use a straw. Apply a cold pack to the outside to reduce swelling."
+          },
+          {
+            "q": "How long does pain last after an extraction?",
+            "a": "1–2 days after a simple extraction and 3–5 days after impacted tooth surgery. Pain that gets worse after day 3 may be a sign of dry socket (alveolitis); contact the clinic."
+          }
+        ]
+      },
+      {
+        "name": "Children's teeth",
+        "items": [
+          {
+            "q": "At what age should I first take my child to the dentist?",
+            "a": "When the first baby tooth appears, and by age 1 at the latest. Meeting the dentist early prevents both decay and fear of the dentist."
+          },
+          {
+            "q": "Should decay in baby teeth be treated?",
+            "a": "Yes. A decayed baby tooth causes pain and abscesses and can damage the permanent tooth beneath it; losing it early causes crowding."
+          },
+          {
+            "q": "What is baby bottle decay?",
+            "a": "It is decay that develops rapidly in the front teeth of babies who have milk or juice in a bottle at night. It is prevented by giving only water at night and wiping the teeth."
+          },
+          {
+            "q": "Is fluoride treatment safe for children?",
+            "a": "Yes. Professional fluoride varnish is a safe and effective way of preventing decay, recommended worldwide."
+          },
+          {
+            "q": "What is a fissure sealant?",
+            "a": "It is a protective coating applied to the deep grooves of the molars; it greatly reduces the risk of decay. It is applied when the 6-year and 12-year molars erupt."
+          },
+          {
+            "q": "My child's teeth are crowded, when should we see an orthodontist?",
+            "a": "A first orthodontic check-up is recommended at around age 7. Guiding jaw growth early can reduce the need for braces later."
+          }
+        ]
+      },
+      {
+        "name": "Aesthetics, whitening and orthodontics",
+        "items": [
+          {
+            "q": "Does teeth whitening damage the teeth?",
+            "a": "When carried out under a dentist's supervision it does not harm the enamel. Temporary sensitivity passes within 1–2 days. The effect lasts 1–3 years."
+          },
+          {
+            "q": "Veneers or zirconia?",
+            "a": "If there is no major loss of tooth structure, veneers need less preparation and look more natural. Zirconia is preferred for teeth with large fillings or root canal treatment."
+          },
+          {
+            "q": "Clear aligners or braces?",
+            "a": "Clear aligners are invisible and comfortable and are ideal for mild to moderate cases. For serious bite problems, fixed brackets give stronger results."
+          },
+          {
+            "q": "Is there an age limit for orthodontics?",
+            "a": "No. It can be done at any age as long as your teeth and gums are healthy."
+          },
+          {
+            "q": "What can be done for teeth clenching (bruxism)?",
+            "a": "A night guard protects the teeth from wear; where needed, jaw muscle relaxing treatments and bite adjustment are carried out."
+          },
+          {
+            "q": "Should I see a dentist for jaw joint pain?",
+            "a": "Yes. Clicking, pain or locking in the jaw joint can come from clenching, a bite problem or missing teeth; the cause is determined by an examination."
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "meta_title": "Contact & Appointments | Ay Yıldız Dental Kayaşehir, Başakşehir",
+    "meta_description": "Address, phone, WhatsApp and opening hours of Ay Yıldız Oral and Dental Health Clinic. Kayaşehir Boulevard, Seyranşehir Site D3 Block, Başakşehir, Istanbul. 0212 931 99 32.",
+    "title": "Contact & Appointments",
+    "intro": "Call us or message us on WhatsApp to book a check-up. We reply to messages within 1 hour at the latest during opening hours.",
+    "directions_title": "How to get here",
+    "directions": [
+      "Metro: line M3 to Kayaşehir Merkez station, then about a 5-minute walk along Kayaşehir Boulevard.",
+      "Bus: get off at the Seyranşehir stops on Kayaşehir Boulevard, then walk to the site entrance.",
+      "Car: parking is available in front of and around the Seyranşehir Site."
+    ],
+    "form_note": "We prefer WhatsApp to a form: write your question and we will share available times straight away.",
+    "exterior_alt": "Ay Yıldız Dental Clinic entrance on Kayaşehir Boulevard"
+  }
+}

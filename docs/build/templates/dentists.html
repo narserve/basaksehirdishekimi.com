@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(page.breadcrumb) }}
+    <h1>{{ c.dentists_index.title }}</h1>
+    <p class="lead">{{ c.dentists_index.intro }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="grid grid-3">
+      {%- for d in c.dentists %}
+      {{ m.dentist_card(d, c) }}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}

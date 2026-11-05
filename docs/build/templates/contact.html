@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(page.breadcrumb) }}
+    <h1>{{ c.contact.title }}</h1>
+    <p class="lead">{{ c.contact.intro }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container contact-split">
+    <div class="contact-cards">
+      <a class="contact-card contact-card-wa" href="{{ wa_link }}" target="_blank" rel="noopener">
+        {{ m.icon('wa', 32) }}
+        <span><strong>WhatsApp</strong><span>{{ site.phone_mobile }}</span></span>
+      </a>
+      <a class="contact-card" href="tel:{{ site.phone_landline_tel }}">
+        {{ m.icon('phone', 28) }}
+        <span><strong>{{ c.common.phone_label }}</strong><span>{{ site.phone_landline }}</span></span>
+      </a>
+      <a class="contact-card" href="tel:{{ site.phone_mobile_tel }}">
+        {{ m.icon('phone', 28) }}
+        <span><strong>GSM</strong><span>{{ site.phone_mobile }}</span></span>
+      </a>
+      <a class="contact-card" href="mailto:{{ site.email }}">
+        {{ m.icon('mail', 28) }}
+        <span><strong>{{ c.common.email_label }}</strong><span>{{ site.email }}</span></span>
+      </a>
+      <div class="contact-card">
+        {{ m.icon('clock', 28) }}
+        <span><strong>{{ c.common.hours_label }}</strong><span>{{ c.common.hours_text }}</span></span>
+      </div>
+      <a class="contact-card" href="{{ site.maps_url }}" target="_blank" rel="noopener">
+        {{ m.icon('pin', 28) }}
+        <span><strong>{{ c.common.address_label }}</strong><span>{{ site.address.street }}, {{ site.address.district }} / {{ site.address.city }}</span></span>
+      </a>
+      <p class="contact-note">{{ c.contact.form_note }}</p>
+    </div>
+    <div>
+      <div class="contact-photo"><picture><source srcset="/assets/img/klinik-dis-cephe.webp" type="image/webp"><img src="/assets/img/klinik-dis-cephe.jpg" alt="{{ c.contact.exterior_alt }}" width="464" height="460" loading="lazy"></picture></div>
+      <div class="map-wrap map-wrap-tall">
+        <iframe title="{{ c.common.map_title }}" src="https://www.google.com/maps?q={{ site.maps_query | urlencode }}&output=embed&hl={{ c.lang }}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+      </div>
+      <h2 class="h3">{{ c.contact.directions_title }}</h2>
+      <ul class="check-list">
+        {%- for d in c.contact.directions %}<li>{{ m.icon('check', 18) }}<span>{{ d }}</span></li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+{% endblock %}

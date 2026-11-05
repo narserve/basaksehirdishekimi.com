@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="{{ c.lang }}" dir="{{ c.dir }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.meta_title }}</title>
+<meta name="description" content="{{ page.meta_description }}">
+<link rel="canonical" href="{{ site.domain }}{{ page.url }}">
+{%- for l, u in page.alternates.items() %}
+<link rel="alternate" hreflang="{{ l }}" href="{{ site.domain }}{{ u }}">
+{%- endfor %}
+<link rel="alternate" hreflang="x-default" href="{{ site.domain }}{{ page.alternates['tr'] }}">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="{{ site.colors.dark }}">
+<meta property="og:type" content="{{ 'article' if page.kind in ['treatment','dentist'] else 'website' }}">
+<meta property="og:site_name" content="{{ c.site.name }}">
+<meta property="og:title" content="{{ page.meta_title }}">
+<meta property="og:description" content="{{ page.meta_description }}">
+<meta property="og:url" content="{{ site.domain }}{{ page.url }}">
+<meta property="og:image" content="{{ site.domain }}/assets/img/{{ page.og_image | default('og-default.jpg') }}">
+<meta property="og:locale" content="{{ c.locale }}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/assets/img/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{%- if c.lang == 'ar' %}
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+{%- else %}
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+{%- endif %}
+<link rel="stylesheet" href="/assets/css/style.css?v={{ build_id }}">
+<script type="application/ld+json">{{ page.jsonld | tojson }}</script>
+</head>
+<body class="lang-{{ c.lang }}{% if page.kind == 'home' %} is-home{% endif %}">
+<a class="skip-link" href="#main">{{ c.common.skip_to_content }}</a>
+
+<header class="site-header" id="top">
+  <div class="container header-inner">
+    <a class="brand" href="{{ c.paths.home }}" aria-label="{{ c.site.name }}">
+      <img src="/assets/img/logo-mark.png" alt="" width="44" height="44" class="brand-mark">
+      <span class="brand-text">
+        <span class="brand-name">{{ c.site.short_name }}</span>
+        <span class="brand-tag">{{ c.site.tagline }}</span>
+      </span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="{{ c.nav.menu }}">
+      <ul>
+        <li><a href="{{ c.paths.home }}"{% if page.kind == 'home' %} aria-current="page"{% endif %}>{{ c.nav.home }}</a></li>
+        <li><a href="{{ c.paths.treatments }}"{% if page.kind in ['treatments','treatment'] %} aria-current="page"{% endif %}>{{ c.nav.treatments }}</a></li>
+        <li><a href="{{ c.paths.dentists }}"{% if page.kind in ['dentists','dentist'] %} aria-current="page"{% endif %}>{{ c.nav.dentists }}</a></li>
+        <li><a href="{{ c.paths.faq }}"{% if page.kind == 'faq' %} aria-current="page"{% endif %}>{{ c.nav.faq }}</a></li>
+        <li><a href="{{ c.paths.about }}"{% if page.kind == 'about' %} aria-current="page"{% endif %}>{{ c.nav.about }}</a></li>
+        <li><a href="{{ c.paths.contact }}"{% if page.kind == 'contact' %} aria-current="page"{% endif %}>{{ c.nav.contact }}</a></li>
+      </ul>
+      <div class="nav-mobile-extra">
+        <a class="btn btn-primary" href="{{ wa_link }}" target="_blank" rel="noopener">{{ c.common.write_whatsapp }}</a>
+        <a class="btn btn-outline" href="tel:{{ site.phone_landline_tel }}">{{ site.phone_landline }}</a>
+      </div>
+    </nav>
+    <div class="header-actions">
+      <div class="lang-switch" aria-label="{{ c.nav.language }}">
+        {%- for l, u in page.alternates.items() %}
+        <a href="{{ u }}" hreflang="{{ l }}" lang="{{ l }}"{% if l == c.lang %} class="is-active" aria-current="true"{% endif %}>{{ l | upper }}</a>
+        {%- endfor %}
+      </div>
+      <a class="btn btn-outline btn-phone" href="tel:{{ site.phone_landline_tel }}">
+        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+        <span>{{ site.phone_landline }}</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-controls="main-nav" aria-expanded="false" aria-label="{{ c.nav.menu }}">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+{% block content %}{% endblock %}
+
+
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-brand">
+      <img src="/assets/img/logo-white.png" alt="{{ c.site.name }}" width="180" height="160" loading="lazy">
+      <p class="footer-founder">{{ c.common.founder_label }}: {{ site.founder }}</p>
+      <p>{{ c.common.languages_label }}: {{ c.common.languages_text }}</p>
+    </div>
+    <div>
+      <h3>{{ c.nav.contact }}</h3>
+      <address>
+        <p><strong>{{ c.common.address_label }}:</strong> {{ site.address.street }}, {{ site.address.district }} / {{ site.address.city }}</p>
+        <p><strong>{{ c.common.phone_label }}:</strong> <a href="tel:{{ site.phone_landline_tel }}">{{ site.phone_landline }}</a> · <a href="tel:{{ site.phone_mobile_tel }}">{{ site.phone_mobile }}</a></p>
+        <p><strong>WhatsApp:</strong> <a href="{{ wa_link }}" target="_blank" rel="noopener">{{ site.phone_mobile }}</a></p>
+        <p><strong>{{ c.common.email_label }}:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        <p><strong>{{ c.common.hours_label }}:</strong> {{ c.common.hours_text }}</p>
+      </address>
+    </div>
+    <div>
+      <h3>{{ c.nav.treatments }}</h3>
+      <ul class="footer-links">
+        {%- for t in c.treatments %}
+        <li><a href="{{ c.paths.treatments }}{{ t.slug }}/">{{ t.name }}</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <div>
+      <h3>{{ c.site.short_name }}</h3>
+      <ul class="footer-links">
+        <li><a href="{{ c.paths.about }}">{{ c.nav.about }}</a></li>
+        <li><a href="{{ c.paths.dentists }}">{{ c.nav.dentists }}</a></li>
+        <li><a href="{{ c.paths.faq }}">{{ c.nav.faq }}</a></li>
+        <li><a href="{{ c.paths.contact }}">{{ c.nav.contact }}</a></li>
+        <li><a href="{{ site.social.instagram }}" target="_blank" rel="noopener">Instagram</a></li>
+        <li><a href="{{ site.social.facebook }}" target="_blank" rel="noopener">Facebook</a></li>
+        <li><a href="{{ site.maps_url }}" target="_blank" rel="noopener">Google Maps</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-seo">
+    <h3>{{ c.common.seo_footer_title }}</h3>
+    <p>{{ c.common.seo_footer_text }}</p>
+  </div>
+  <div class="container footer-bottom">
+    <p>© {{ year }} {{ c.site.name }}. {{ c.common.rights }}</p>
+    <div class="lang-switch">
+      {%- for l, u in page.alternates.items() %}
+      <a href="{{ u }}" hreflang="{{ l }}" lang="{{ l }}"{% if l == c.lang %} class="is-active"{% endif %}>{{ lang_names[l] }}</a>
+      {%- endfor %}
+    </div>
+  </div>
+</footer>
+
+<a class="wa-float" href="{{ wa_link }}" target="_blank" rel="noopener" aria-label="{{ c.common.whatsapp_label }}">
+  <svg aria-hidden="true" width="32" height="32" viewBox="0 0 24 24" fill="#fff"><path d="M17.5 14.4c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6l.5-.6c.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5-.1-.1-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.2-.3-.3-.6-.4zM12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.3-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2z"/></svg>
+  <span class="wa-float-text">{{ c.common.write_whatsapp }}</span>
+</a>
+
+<script src="/assets/js/main.js?v={{ build_id }}" defer></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="section">
+  <div class="container notfound">
+    <p class="kicker">404</p>
+    <h1>{{ c.common.page_not_found }}</h1>
+    <p class="lead">{{ c.common.page_not_found_text }}</p>
+    <a class="btn btn-dark" href="{{ c.paths.home }}">{{ c.common.back_home }}</a>
+  </div>
+</section>
+{% endblock %}

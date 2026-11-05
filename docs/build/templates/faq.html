@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="page-head">
+  <div class="container">
+    {{ m.breadcrumb(page.breadcrumb) }}
+    <h1>{{ c.faq.title }}</h1>
+    <p class="lead">{{ c.faq.intro }}</p>
+    <nav class="faq-nav" aria-label="{{ c.faq.title }}">
+      {%- for cat in c.faq.categories %}
+      <a href="#faq-{{ loop.index }}">{{ cat.name }}</a>
+      {%- endfor %}
+    </nav>
+  </div>
+</section>
+<section class="section">
+  <div class="container faq-page">
+    {%- for cat in c.faq.categories %}
+    <section class="faq-category" id="faq-{{ loop.index }}">
+      <h2>{{ cat.name }}</h2>
+      {{ m.faq_list(cat['items']) }}
+    </section>
+    {%- endfor %}
+  </div>
+</section>
+{% endblock %}

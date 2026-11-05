@@ -1,0 +1,61 @@
+{
+  "domain": "https://basaksehirdishekimi.com",
+  "brand": "Ay Yıldız Ağız ve Diş Sağlığı Polikliniği",
+  "brand_short": "Ay Yıldız ADSP",
+  "founder": "Dt. Fatih Gülcü",
+  "phone_landline": "0212 931 99 32",
+  "phone_landline_tel": "+902129319932",
+  "phone_mobile": "0530 391 99 32",
+  "phone_mobile_tel": "+905303919932",
+  "whatsapp": "905303919932",
+  "email": "fgulcu@hotmail.com",
+  "address": {
+    "street": "Kayabaşı Mah. Kayaşehir Bulvarı, Seyranşehir Sitesi D3 Blok No: 15C, İç Kapı No: 10-11",
+    "district": "Başakşehir",
+    "city": "İstanbul",
+    "postal": "34494",
+    "country": "TR",
+    "lat": 41.0967,
+    "lng": 28.7764
+  },
+  "maps_query": "Kayabaşı Mah. Kayaşehir Bulvarı Seyranşehir D3 Blok No 15C Başakşehir İstanbul",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kayaba%C5%9F%C4%B1+Mah.+Kaya%C5%9Fehir+Bulvar%C4%B1+Seyran%C5%9Fehir+D3+Blok+No+15C+Ba%C5%9Fak%C5%9Fehir+%C4%B0stanbul",
+  "hours": [
+    {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "open": "09:00",
+      "close": "21:00"
+    },
+    {
+      "days": [
+        "Saturday"
+      ],
+      "open": "09:00",
+      "close": "19:00"
+    }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/ayyildizklinik/",
+    "facebook": "https://www.facebook.com/kayasehirdishekimi/"
+  },
+  "colors": {
+    "primary": "#E81F27",
+    "dark": "#0F2A4A"
+  },
+  "languages": [
+    "tr",
+    "en",
+    "ar"
+  ],
+  "lang_prefix": {
+    "tr": "",
+    "en": "/en",
+    "ar": "/ar"
+  }
+}

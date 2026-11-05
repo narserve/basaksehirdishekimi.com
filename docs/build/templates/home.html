@@ -1,0 +1,157 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-copy">
+      <p class="kicker kicker-light">{{ c.home.hero.kicker }}</p>
+      <h1>{{ c.home.hero.title }}</h1>
+      <p class="lead">{{ c.home.hero.subtitle }}</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary btn-lg" href="{{ wa_link }}" target="_blank" rel="noopener">{{ m.icon('wa', 20) }} {{ c.common.book_free_exam }}</a>
+        <a class="btn btn-outline-light btn-lg" href="tel:{{ site.phone_landline_tel }}">{{ m.icon('phone', 18) }} {{ site.phone_landline }}</a>
+      </div>
+      <ul class="hero-bullets">
+        {%- for b in c.home.hero.bullets %}
+        <li>{{ b }}</li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <div class="hero-art" aria-hidden="true">
+      <div class="hero-art-frame"></div>
+      <div class="hero-art-card">
+        <picture>
+          <source srcset="/assets/img/klinik-resepsiyon.webp" type="image/webp">
+          <img src="/assets/img/klinik-resepsiyon.jpg" alt="{{ c.home.hero.image_alt }}" width="464" height="464" loading="eager" fetchpriority="high">
+        </picture>
+        <div class="hero-art-badge"><img src="/assets/img/logo-mark.png" alt="" width="40" height="40"><span>{{ c.site.short_name }}<br>{{ c.site.tagline }}</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="trust-strip">
+  <div class="container trust-grid">
+    {%- for t in c.home.trust %}
+    <div class="trust-item"><span class="trust-big">{{ t.big }}</span><span class="trust-small">{{ t.small }}</span></div>
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <p class="kicker">{{ c.home.treatments_section.kicker }}</p>
+        <h2>{{ c.home.treatments_section.title }}</h2>
+      </div>
+      <a class="link-more" href="{{ c.paths.treatments }}">{{ c.common.all_treatments }}</a>
+    </div>
+    <div class="grid grid-4">
+      {%- for id in c.home.treatments_section.featured %}
+      {%- set t = tmap[id] %}
+      {{ m.treatment_card(t, c) }}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-soft">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <p class="kicker">{{ c.home.why.kicker }}</p>
+        <h2>{{ c.home.why.title }}</h2>
+      </div>
+    </div>
+    <div class="grid grid-4">
+      {%- for w in c.home.why["items"] %}
+      <div class="why-item">
+        <span class="why-num">{{ '%02d' % loop.index }}</span>
+        <h3>{{ w.title }}</h3>
+        <p>{{ w.text }}</p>
+      </div>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-gallery">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <p class="kicker">{{ c.home.gallery.kicker }}</p>
+        <h2>{{ c.home.gallery.title }}</h2>
+      </div>
+    </div>
+    <div class="gallery">
+      {%- for g in c.home.gallery.photos %}
+      <figure><picture><source srcset="/assets/img/{{ g.file }}.webp" type="image/webp"><img src="/assets/img/{{ g.file }}.jpg" alt="{{ g.alt }}" width="464" height="464" loading="lazy"></picture></figure>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <p class="kicker">{{ c.home.dentists_section.kicker }}</p>
+        <h2>{{ c.home.dentists_section.title }}</h2>
+        <p class="section-text">{{ c.home.dentists_section.text }}</p>
+      </div>
+      <a class="link-more" href="{{ c.paths.dentists }}">{{ c.common.all_dentists }}</a>
+    </div>
+    <div class="grid grid-4">
+      {%- for d in c.dentists if d.has_photo %}
+      {{ m.dentist_card(d, c) }}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-dark child-section">
+  <div class="container child-inner">
+    <div class="child-photo">{{ m.dentist_photo(dmap['vahide-ceyda-acar']) }}</div>
+    <div class="child-copy">
+      <p class="kicker kicker-light">{{ c.home.child_section.kicker }}</p>
+      <h2>{{ c.home.child_section.title }}</h2>
+      <p>{{ c.home.child_section.text }}</p>
+      <a class="btn btn-primary" href="{{ c.paths.treatments }}{{ tmap['cocuk-dis-hekimligi'].slug }}/">{{ c.home.child_section.cta }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container faq-split">
+    <div class="faq-intro">
+      <p class="kicker">{{ c.home.faq_section.kicker }}</p>
+      <h2>{{ c.home.faq_section.title }}</h2>
+      <p class="section-text">{{ c.home.faq_section.text }}</p>
+      <a class="link-more" href="{{ c.paths.faq }}">{{ c.common.all_faq }}</a>
+    </div>
+    <div>
+      {{ m.faq_list(home_faq) }}
+    </div>
+  </div>
+</section>
+
+<section class="section section-soft">
+  <div class="container location-split">
+    <div>
+      <p class="kicker">{{ c.home.location.kicker }}</p>
+      <h2>{{ c.home.location.title }}</h2>
+      <p class="section-text">{{ c.home.location.text }}</p>
+      <ul class="info-list">
+        <li>{{ m.icon('pin', 20) }}<span>{{ site.address.street }}, {{ site.address.district }} / {{ site.address.city }}</span></li>
+        <li>{{ m.icon('phone', 20) }}<span><a href="tel:{{ site.phone_landline_tel }}">{{ site.phone_landline }}</a> · <a href="tel:{{ site.phone_mobile_tel }}">{{ site.phone_mobile }}</a></span></li>
+        <li>{{ m.icon('clock', 20) }}<span>{{ c.common.hours_text }}</span></li>
+      </ul>
+      <a class="btn btn-dark" href="{{ site.maps_url }}" target="_blank" rel="noopener">{{ c.common.get_directions }}</a>
+    </div>
+    <div class="map-wrap">
+      <iframe title="{{ c.common.map_title }}" src="https://www.google.com/maps?q={{ site.maps_query | urlencode }}&output=embed&hl={{ c.lang }}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+{% endblock %}
